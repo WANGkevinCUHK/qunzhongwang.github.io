@@ -78,8 +78,9 @@ Recitation
 Quiz on gradescope
 - Feb 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [[Recitation1 Solution]](https://2prime.github.io/files/linear/recitation1_sol.pdf)
 - Feb 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), No Quiz, [[Recitation2 Solution]](https://2prime.github.io/files/linear/recitation2_sol.pdf)
-- Feb 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix
-- Fe 23th, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06)
+- Feb 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix,  [[Recitation3 Solution]](https://2prime.github.io/files/linear/recitation3_sol.pdf)
+- Feb 23th, Review the [cheat sheet](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5) and finish recitation 3
+- Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06)
 
 
 Homework and Sample Questions
@@ -90,7 +91,7 @@ Homework and Sample Questions
 
 This [video](https://drive.google.com/file/d/14kDD71aLOqob6ScXUGEyFYcb7P5_kx1E/view?usp=sharing) explains how to upload to Gradescope, this [video](https://drive.google.com/file/d/1a11BB2dP9TzfbFTL05MOo20zE4UBLlLa/view?usp=sharing) shows what good and bad submissions are, and examples of good and bad scans are [here](https://drive.google.com/file/d/1iDuBj5pXcgm-BtMXZ5fhU8aewan3D3QY/view?usp=sharing).
 
-- Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://www.overleaf.com/read/tfrvpzdkhkcd#65907a) - Due by midnight on Friday 2/9
+- Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://www.overleaf.com/read/tfrvpzdkhkcd#65907a) - Due by midnight on Friday 2/9, [[solution]](https://2prime.github.io/files/linear/Linear_PS1_Solutions.pdf)
 - Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://www.overleaf.com/read/hbxxxqdhfrby#852c8f) - Due by midnight on Friday 2/23
 - Problem Set 3 [pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://www.overleaf.com/read/gvtyyvzvnkyz#3b9b41) - Due by midnight on Friday 3/8
 - Problem Set 4 [pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://www.overleaf.com/read/hdrkjmsskbnq#2d79be) - Due by midnight on Friday 4/5
