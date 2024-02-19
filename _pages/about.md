@@ -24,7 +24,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 **Office**: Office 0926, Warren Weaver Hall (CIWW), 251 Mercer St, New York, NY 10012
 
 
-**<font color='red'>[*New*]</font> ** AAAI 2024 Tutorial: Recent advance in Physics-informed Machine Learning  [website](https://sites.google.com/view/aaai-2024-tutorial-piml/)
+**<font color='red'>[*New*]</font> ** AAAI 2024 Tutorial: Recent advance in Physics-informed Machine Learning  [website](https://sites.google.com/view/aaai-2024-tutorial-piml/) [slide](https://2prime.github.io/files/SML/piml_aaai.pdf)
 
 # Research Interest and Highlights
 
