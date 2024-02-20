@@ -8,6 +8,7 @@ author_profile: true
 
 
 ## Scientific Machine Learning
+- **<font color='red'>[*New*]</font> ** AAAI 2024 Tutorial: Recent advance in Physics-informed Machine Learning  [website](https://sites.google.com/view/aaai-2024-tutorial-piml/) [slide](https://2prime.github.io/files/SML/piml_aaai.pdf)
 - slide at CBMS deep learning for numerical PDE [pdf](https://2prime.github.io/files/CBMS_dlpde.pdf)
 - Neural ODE and PDE-Net [Youtube](https://www.youtube.com/watch?v=URZG4ksH06g),[slide](https://2prime.github.io/files/ODETalk%20(1).pdf)
 - Statistical analysis of Machine Learning Solving PDE: [slide](https://2prime.github.io/files/mlpde.pdf)
