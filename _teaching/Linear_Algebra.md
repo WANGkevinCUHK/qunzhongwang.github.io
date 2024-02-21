@@ -24,8 +24,8 @@ Logistics
 ======
 
 **Time and Location**: Monday and Wednesday
--  9:30 - 10:45 at RGSH 203 (Brooklyn) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 8:00AM-10:00AM)
--  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 2:00pm-3:50pm)
+-  9:30 - 10:45 at RGSH 203 (Brooklyn) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm)
+-  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm)
 
 **Office Hour**:
 - 10:45 - 11:45 Monday, Wednsday room 870, 2 MTC
