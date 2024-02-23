@@ -79,7 +79,7 @@ Quiz on gradescope
 - Feb 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [[Recitation1 Solution]](https://2prime.github.io/files/linear/recitation1_sol.pdf)
 - Feb 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), No Quiz, [[Recitation2 Solution]](https://2prime.github.io/files/linear/recitation2_sol.pdf)
 - Feb 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix,  [[Recitation3 Solution]](https://2prime.github.io/files/linear/recitation3_sol.pdf)
-- Feb 23th, Review the [cheat sheet](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5) and finish recitation 3, Quiz 3 due on Sunday covers inverse matrix, LU, LDU and LDL decomposition.
+- Feb 23th, Review the [cheat sheet](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5) and finish recitation 3, Quiz 3 due on Sunday covers inverse matrix, LU, LDU and LDL decomposition. [[Recitation review Solution]](https://2prime.github.io/files/linear/recitation_review_sol.pdf)
 - Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06)
 
 
