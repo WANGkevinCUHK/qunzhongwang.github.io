@@ -71,7 +71,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 - Lectrue 13, Strang Section 3.4 (Independence, Basis and Dimension) 3/4  [[slide]](https://2prime.github.io/files/linear/linearslide13.pdf) [[Gilbert Strang's Video 9]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-9-independence-basis-and-dimension/)
 - Lectrue 14, Strang Section 3.5 (Dimensions of the Four Subspaces, Orthogonality of the Four Subspaces) 3/6 [[slide]](https://2prime.github.io/files/linear/linearslide14.pdf) [[Gilbert Strag's Video 10]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-11-matrix-spaces-rank-1-small-world-graphs/)
 - Lectrue 15, Strang Section 4.1 and 4.2 (Projection and Review) 3/11 [[Midterm cheat sheet]](https://2prime.github.io/files/linear/midterm_review.pdf) [[slide]](https://2prime.github.io/files/linear/linearslide15.pdf) [[Gilbert Strag's Video 14]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-14-orthogonal-vectors-and-subspaces/) [[Gilbert Strag's Video 15]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-15-projections-onto-subspaces/)
-- Lectrue 16, Midterm, 3/13
+- Lectrue 16, Midterm, 3/13 [[Review Question 1]](https://2prime.github.io/files/linear/Exam1_practice_problems) [[Sample Questions]]() [Past Exams at NYU](https://nyu.app.box.com/s/sdpb1po9zgrspnueavf2pfmrvz5lukl1)
 
 Recitation
 ======
@@ -80,7 +80,10 @@ Quiz on gradescope
 - Feb 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), No Quiz, [[Recitation2 Solution]](https://2prime.github.io/files/linear/recitation2_sol.pdf)
 - Feb 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix,  [[Recitation3 Solution]](https://2prime.github.io/files/linear/recitation3_sol.pdf)
 - Feb 23th, Review the [cheat sheet](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5) and finish recitation 3, Quiz 3 due on Sunday covers inverse matrix, LU, LDU and LDL decomposition. [[Recitation review Solution]](https://2prime.github.io/files/linear/recitation_review_sol.pdf)
-- Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06)
+- Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06) Quiz 4 due on Sunday covers Vector space, rank, Row Echelon Form
+- Mar 8st, [Recitation 5](https://nyu.app.box.com/s/byldpb26xejf3rerogowv51ea4r6s7hm)
+
+- [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra)
 
 
 Homework and Sample Questions
