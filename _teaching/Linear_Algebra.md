@@ -56,6 +56,8 @@ Gilbert Strang's course video: [link](https://ocw.mit.edu/courses/18-06-linear-a
 
 Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 
+Practice Problem Sets :[[link]](https://web.mit.edu/18.06/www/psets.shtml)
+
 - Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [[slide]](https://2prime.github.io/files/linear/linearslide1.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide1filled.pdf)
 - Lecture 2, Strang Sections 1.2 and 1.3 (Recap of vector space, Span), 1/24 [[slide]](https://2prime.github.io/files/linear/linearslide2.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide2filled.pdf)
 - Lecture 3, Strang Sections 2.1 and 2.2 (Matrices, Linear Systems), 1/29 [[slide]](https://2prime.github.io/files/linear/linearslide3.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide3filled.pdf) [[matrix vector multiplication]](https://2prime.github.io/files/linear/matrixvector.pdf)
@@ -82,7 +84,6 @@ Quiz on gradescope
 - Feb 23th, Review the [cheat sheet](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5) and finish recitation 3, Quiz 3 due on Sunday covers inverse matrix, LU, LDU and LDL decomposition. [[Recitation review Solution]](https://2prime.github.io/files/linear/recitation_review_sol.pdf)
 - Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06) Quiz 4 due on Sunday covers Vector space, rank, Row Echelon Form
 - Mar 8st, [Recitation 5](https://nyu.app.box.com/s/byldpb26xejf3rerogowv51ea4r6s7hm)
-
 - [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra)
 
 
