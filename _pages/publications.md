@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - Kaizhao Liu, Jose Blanchet, Lexing Ying , **Yiping Lu**. A fast bootstrap method, *submitted*, 2024.
 
-- Haotian Ye, Ruichen Li, Yuntian Gu, **Yiping Lu**, Di He, Liwei Wang. $O(N^2)$ Representation of General Continuous Anti-symmetric Function, *submitted*, 2024.
+- Haotian Ye, Ruichen Li, Yuntian Gu, **Yiping Lu**, Di He, Liwei Wang. [$O(N^2)$ Representation of General Continuous Anti-symmetric Function](https://arxiv.org/abs/2402.15167), *submitted*, 2024.
 
 - Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=tMzPZTvz2H), International Conference on Learning Representations(ICLR) 2024, <font color='red'>[Spotlight]</font>
 
