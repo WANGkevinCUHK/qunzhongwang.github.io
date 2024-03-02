@@ -98,7 +98,7 @@ Homework and Sample Questions
 This [video](https://drive.google.com/file/d/14kDD71aLOqob6ScXUGEyFYcb7P5_kx1E/view?usp=sharing) explains how to upload to Gradescope, this [video](https://drive.google.com/file/d/1a11BB2dP9TzfbFTL05MOo20zE4UBLlLa/view?usp=sharing) shows what good and bad submissions are, and examples of good and bad scans are [here](https://drive.google.com/file/d/1iDuBj5pXcgm-BtMXZ5fhU8aewan3D3QY/view?usp=sharing).
 
 - Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://www.overleaf.com/read/tfrvpzdkhkcd#65907a) - Due by midnight on Friday 2/9, [[solution]](https://2prime.github.io/files/linear/Linear_PS1_Solutions.pdf)
-- Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://www.overleaf.com/read/hbxxxqdhfrby#852c8f) - Due by midnight on Friday 2/23
+- Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://www.overleaf.com/read/hbxxxqdhfrby#852c8f) - Due by midnight on Friday 2/23, [[solution]](https://2prime.github.io/files/linear/Linear_PS2_Solutions.pdf)
 - Problem Set 3 [pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://www.overleaf.com/read/gvtyyvzvnkyz#3b9b41) - Due by midnight on Friday 3/8
 - Problem Set 4 [pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://www.overleaf.com/read/hdrkjmsskbnq#2d79be) - Due by midnight on Friday 4/5
 - Problem Set 5 [pdf](https://nyu.box.com/s/cbkc8abzxo8v6jcv8s14povuxildfa9d), [Latex](https://www.overleaf.com/read/rgxgrzypnrnx#a231cc) - Due by midnight on Friday 4/19
