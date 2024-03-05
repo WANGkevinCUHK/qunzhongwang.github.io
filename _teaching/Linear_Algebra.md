@@ -79,7 +79,7 @@ Past Exams from MIT: [[link]](https://web.mit.edu/18.06/www/old.shtml)
 - Lectrue 13, Strang Section 3.4 (Independence, Basis and Dimension) 3/4  [[slide]](https://2prime.github.io/files/linear/linearslide13.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide13filled.pdf) [[Gilbert Strang's Video 9]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-9-independence-basis-and-dimension/)
   - [[Compute Row space, Column space, Null space]](https://2prime.github.io/files/linear/fourspace.pdf)
 - Lectrue 14, Strang Section 3.5 (Orthogonality of the Four Subspaces, Review) 3/6 [[slide]](https://2prime.github.io/files/linear/linearslide14.pdf) [[Gilbert Strag's Video 10]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-11-matrix-spaces-rank-1-small-world-graphs/) 
-  - [[Midterm cheat sheet]](https://2prime.github.io/files/linear/midterm_review.pdf)
+  - [[Midterm cheat sheet]](https://2prime.github.io/files/linear/midterm_review.pdf) (Page 9 summarize the most important properties)
   - [[Midterm Review Problems]](https://2prime.github.io/files/linear/reviewproblem.pdf)
 - Lectrue 15, Strang Section 4.1 and 4.2 (Projection and Review) 3/11 [[slide]](https://2prime.github.io/files/linear/linearslide15.pdf) [[Gilbert Strag's Video 14]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-14-orthogonal-vectors-and-subspaces/) [[Gilbert Strag's Video 15]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-15-projections-onto-subspaces/)
 - Lectrue 16, Midterm, 3/13
