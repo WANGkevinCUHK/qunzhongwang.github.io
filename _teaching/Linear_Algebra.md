@@ -54,11 +54,7 @@ Syllabus
 ======
 Gilbert Strang's course video: [link](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 
-Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
-
-Practice Problem Sets :[[link]](https://web.mit.edu/18.06/www/psets.shtml)
-
-Past Exams from MIT: [[link]](https://web.mit.edu/18.06/www/old.shtml)
+Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practice Problem Sets :[[link]](https://web.mit.edu/18.06/www/psets.shtml), Past Exams from MIT: [[link]](https://web.mit.edu/18.06/www/old.shtml)
 
 - Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [[slide]](https://2prime.github.io/files/linear/linearslide1.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide1filled.pdf)
 - Lecture 2, Strang Sections 1.2 and 1.3 (Recap of vector space, Span), 1/24 [[slide]](https://2prime.github.io/files/linear/linearslide2.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide2filled.pdf)
