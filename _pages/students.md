@@ -22,10 +22,10 @@ I will dedicate 30 mins every week for junior PhD/master/undergraduate students,
 
 ## Cooperating Undergraduate Students
 
-- 2021: [Wenlong Ji](https://scholar.google.com/citations?user=UW2Ji5MAAAAJ&hl=en) (PKU -> Stanford Statistics, [paper](https://arxiv.org/abs/2110.02796)), [Haoxuan Chen](https://haoxuanstevec00.github.io/) (Caltech -> Stanford ICME, [paper](https://arxiv.org/abs/2110.06897))
-- 2022: [Jikai Jin](https://scholar.google.com/citations?user=xQqZt2AAAAAJ&hl=en) (PKU -> Stanford ICME, [paper](https://arxiv.org/abs/2209.14430))
-- 2024: Kaizhao Liu (a first author paper submitted to ICML, PKU-> ?)
-- 2025: Zexi Fan (PKU-> ?)
+- 2021: [Wenlong Ji](https://scholar.google.com/citations?user=UW2Ji5MAAAAJ&hl=en) (PKU -> Stanford Statistics, neural collapse, [paper](https://arxiv.org/abs/2110.02796)), [Haoxuan Chen](https://haoxuanstevec00.github.io/) (Caltech -> Stanford ICME, minmax optimality of solving PDE, [paper](https://arxiv.org/abs/2110.06897))
+- 2022: [Jikai Jin](https://scholar.google.com/citations?user=xQqZt2AAAAAJ&hl=en) (PKU -> Stanford ICME, minmax optimality of kernel operator learning, [paper](https://arxiv.org/abs/2209.14430))
+- 2024: Kaizhao Liu (a fast bootstrapping method, a first author paper submitted to ICML, PKU-> ?)
+- 2025: Zexi Fan (machine learning for rare event and stochastic simulation, PKU-> ?)
 
 <br> 
 <br> 
