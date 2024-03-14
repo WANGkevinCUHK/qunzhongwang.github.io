@@ -84,8 +84,8 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - **Concept Questions**: [[Review Question 1]](https://2prime.github.io/files/linear/Exam1_practice_problems.pdf) [[Sample Questions]](https://2prime.github.io/files/linear/sample.pdf)
   - **Calculation Questions**: [[Compute Inverse of a Matrix]](https://www.youtube.com/watch?v=Fg7_mv3izR0) [[Compute LU]](https://2prime.github.io/files/linear/LU.pdf) [[Compute Row space, Column space, Null space]](https://2prime.github.io/files/linear/fourspace.pdf)
   - [[Past Exams at NYU]](https://nyu.app.box.com/s/sdpb1po9zgrspnueavf2pfmrvz5lukl1) [[Past Exams from MIT]](https://web.mit.edu/18.06/www/old.shtml)
-- Lecture 17, Section 4.3 and 4.4, Least Square and Why Linear Algebra is useful, 3/25 [[slide]](https://2prime.github.io/files/linear/linearslide17.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide17filled.pdf)
-- Lecture 18, Section 5.1, Determinats, 3/27
+- Lecture 17, Section 4.3 , Least Square and Why Linear Algebra is useful, 3/25 [[slide]](https://2prime.github.io/files/linear/linearslide17.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide17filled.pdf)
+- Lecture 18, Section 4.4, Orthogonal basis and QR Decomposition, 3/27  [[slide]](https://2prime.github.io/files/linear/linearslide18.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide18filled.pdf)
 - Lecture 19, Section 5.1, Determinats, 4/1
 - Lecture 20, Section 5.3, Cofactors, 4/3
 
