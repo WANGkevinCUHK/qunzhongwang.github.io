@@ -34,3 +34,4 @@ Paper list and Scheldue for spring group meeting.
 - [Sinkhorn Flow: A Continuous-Time Framework for Understanding and Generalizing the Sinkhorn Algorithm](https://arxiv.org/abs/2311.16706)
 - [Diffusion Schrödinger bridge matching](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c428adf74782c2092d254329b6b02482-Abstract-Conference.html)
 - [multilevel picard iterations for solving smooth semilinear parabolic heat equations](https://arxiv.org/abs/1607.03295)
+- [A survey of the Schrödinger problem and some of its connections with optimal transport](https://arxiv.org/pdf/1308.0215.pdf)
