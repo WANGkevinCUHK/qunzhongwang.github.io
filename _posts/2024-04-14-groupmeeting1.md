@@ -21,3 +21,4 @@ Paper list and Scheldue for spring group meeting.
 #### Stochastic simulation and stochastic control
 
 - [Stochastic Optimal Control Matching](https://arxiv.org/abs/2312.02027)
+- [Sinkhorn Flow: A Continuous-Time Framework for Understanding and Generalizing the Sinkhorn Algorithm](https://arxiv.org/abs/2311.16706)
