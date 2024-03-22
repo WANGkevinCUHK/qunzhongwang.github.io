@@ -1,6 +1,6 @@
 ---
 title: '2024 Spring Group Meeting'
-date: 2024
+date: 2015-08-14
 permalink: /posts/2024spring
 tags:
   - Statistics
