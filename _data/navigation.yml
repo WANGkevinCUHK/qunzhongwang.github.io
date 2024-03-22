@@ -17,10 +17,11 @@ main:
   - title: "Supervision"
     url: /students/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "Group Meeting"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
-    
+
+
 
