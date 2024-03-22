@@ -21,6 +21,9 @@ Paper list and Scheldue for spring group meeting.
 - [Adaptive learning rates for support vector machines working on data with low intrinsic dimension](https://arxiv.org/abs/2003.06202)
 - [Which Spaces can be Embedded in Reproducing Kernel Hilbert Spaces?](https://arxiv.org/abs/2312.14711)
 - [How Transformers Learn Causal Structure with Gradient Descent](https://arxiv.org/abs/2402.14735)
+- [Saddle-to-Saddle Dynamics in Diagonal Linear Networks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/17a9ab4190289f0e1504bbb98d1d111a-Abstract-Conference.html)
+- [Learning time-scales in two-layers neural networks](https://arxiv.org/abs/2303.00055)
+
 
 #### Machine Learning
 - [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)
