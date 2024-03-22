@@ -11,10 +11,10 @@ I am a Courant instructor at [Courant Institute of Mathematical Sciences](https:
 
 > **Research Interest**:
 - Statistical Learning Theory, Sample Complexity
-- Functional analysis, Reproducing Kernel Hilbert/Banach Space and Approximation Theory
+- Functional analysis, Kernel Opeartor and Approximation Theory
 - Stochastic Simulation, Monte Carlo Methods, Stochastic Control, Optimal Transport
 - Robust Machine Learning, Uncertainty estimation, Model calibration
-- *Application:* Scientific Machine Learning, AI4Science, Diffusion Process
+- *Application:* Scientific Machine Learning, AI4Science, Diffusion Process, Foundation models
 
 > **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students and Postdocs. Prospective Students see [here](https://2prime.github.io/students/). Summer Intern for 2024 can see [here](https://2prime.github.io/files/SummerIntern_Yiping.pdf). You can also find information about my research [here](https://2prime.github.io/research/) 
 
