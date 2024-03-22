@@ -7,8 +7,9 @@ tags:
   - machine learning theory
   - stochastic simulation
 ---
-paper list and
+Paper list and Scheldue for spring group meeting.
 
+### Scheldue
 
 ### Paper List
 
