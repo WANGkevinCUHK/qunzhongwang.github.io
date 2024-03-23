@@ -23,6 +23,8 @@ Paper list and Scheldue for spring group meeting.
 - [How Transformers Learn Causal Structure with Gradient Descent](https://arxiv.org/abs/2402.14735)
 - [Saddle-to-Saddle Dynamics in Diagonal Linear Networks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/17a9ab4190289f0e1504bbb98d1d111a-Abstract-Conference.html)
 - [Learning time-scales in two-layers neural networks](https://arxiv.org/abs/2303.00055)
+- [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
+- [A duality framework for generalization analysis of random feature models and two-layer neural networks](https://arxiv.org/abs/2305.05642)
 
 
 #### Machine Learning
