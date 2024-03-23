@@ -27,6 +27,7 @@ Paper list and Scheldue for spring group meeting.
 - [A duality framework for generalization analysis of random feature models and two-layer neural networks](https://arxiv.org/abs/2305.05642)
 - [Generalization in kernel regression under realistic assumptions](https://arxiv.org/abs/2312.15995)
 - [Characterizing Overfitting in Kernel Ridgeless Regression Through the Eigenspectrum](https://arxiv.org/abs/2402.01297)
+- [Residual Alignment: Uncovering the Mechanisms of Residual Networks](https://arxiv.org/abs/2401.09018)
 
 
 #### Machine Learning
@@ -42,3 +43,4 @@ Paper list and Scheldue for spring group meeting.
 - [Diffusion Schrödinger bridge matching](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c428adf74782c2092d254329b6b02482-Abstract-Conference.html)
 - [multilevel picard iterations for solving smooth semilinear parabolic heat equations](https://arxiv.org/abs/1607.03295)
 - [A survey of the Schrödinger problem and some of its connections with optimal transport](https://arxiv.org/pdf/1308.0215.pdf)
+- [Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport](https://arxiv.org/abs/2403.12887)
