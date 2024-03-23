@@ -25,6 +25,8 @@ Paper list and Scheldue for spring group meeting.
 - [Learning time-scales in two-layers neural networks](https://arxiv.org/abs/2303.00055)
 - [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
 - [A duality framework for generalization analysis of random feature models and two-layer neural networks](https://arxiv.org/abs/2305.05642)
+- [Generalization in kernel regression under realistic assumptions](https://arxiv.org/abs/2312.15995)
+- [Characterizing Overfitting in Kernel Ridgeless Regression Through the Eigenspectrum](https://arxiv.org/abs/2402.01297)
 
 
 #### Machine Learning
