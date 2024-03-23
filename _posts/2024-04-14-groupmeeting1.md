@@ -30,11 +30,16 @@ Paper list and Scheldue for spring group meeting.
 - [Residual Alignment: Uncovering the Mechanisms of Residual Networks](https://arxiv.org/abs/2401.09018)
 
 
+
 #### Machine Learning
 - [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)
 - [Fractal Patterns May Unravel the Intelligence in Next-Token Prediction](https://arxiv.org/html/2402.01825v1)
 - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 - [Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training](https://arxiv.org/abs/2403.09613)
+- [Score-based Causal Representation Learning with
+Interventions](https://arxiv.org/abs/2301.08230)
+- [Causal Modeling with Stationary Diffusions](https://arxiv.org/abs/2310.17405)
+
 
 #### Stochastic simulation and stochastic control
 
