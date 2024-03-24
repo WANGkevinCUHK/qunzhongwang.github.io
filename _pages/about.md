@@ -11,7 +11,7 @@ I am a Courant instructor at [Courant Institute of Mathematical Sciences](https:
 
 > **Research Interest**:
 - Statistical Learning Theory, Sample Complexity
-- Functional analysis, Kernel Opeartor and Approximation Theory
+- Functional analysis, Kernel Operator and Approximation Theory
 - Stochastic Simulation, Monte Carlo Methods, Stochastic Control, Optimal Transport
 - Robust Machine Learning, Uncertainty estimation, Model calibration
 - *Application:* Scientific Machine Learning, AI4Science, Diffusion Process, Foundation models
