@@ -41,6 +41,8 @@ Paper list and Scheldue for spring group meeting.
 - [Score-based Causal Representation Learning with
 Interventions](https://arxiv.org/abs/2301.08230)
 - [Causal Modeling with Stationary Diffusions](https://arxiv.org/abs/2310.17405)
+- [Measure transport with kernel mean embeddings](https://arxiv.org/abs/2401.12967)
+- [Closed-form Filtering for Non-linear Systems](https://arxiv.org/abs/2402.09796)
 
 
 #### Stochastic simulation and stochastic control
