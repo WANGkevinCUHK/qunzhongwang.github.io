@@ -28,6 +28,8 @@ Paper list and Scheldue for spring group meeting.
 - [Generalization in kernel regression under realistic assumptions](https://arxiv.org/abs/2312.15995)
 - [Characterizing Overfitting in Kernel Ridgeless Regression Through the Eigenspectrum](https://arxiv.org/abs/2402.01297)
 - [Residual Alignment: Uncovering the Mechanisms of Residual Networks](https://arxiv.org/abs/2401.09018)
+- [Stochastic Localization via Iterative Posterior Sampling](https://arxiv.org/abs/2402.10758)
+- [The Sample Size Required in importance sampling](https://www.jstor.org/stable/26542331)
 
 
 
