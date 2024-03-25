@@ -99,7 +99,7 @@ Quiz on gradescope
 - Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06) Quiz 4 due on Sunday covers Vector space, Null space, rank, Row Echelon Form [[Recitation 4 Solution]](https://2prime.github.io/files/linear/recitation4_sol.pdf)
 - Mar 8st, [Recitation 5](https://nyu.app.box.com/s/byldpb26xejf3rerogowv51ea4r6s7hm) Quiz 5 due on Sunday covers Rank, Solvabilty, four fundemental subspaces [[Recitation 5 Solution]](https://2prime.github.io/files/linear/recitation5_sol.pdf)
 - March 15th and March 22nd, No Recitation.
-- Mar 29 th, [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra)
+- Mar 29 th, [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra) Quiz 6 due on Sunday covers Projection and Least square solution [[Recitation 5 Solution]](https://2prime.github.io/files/linear/recitation6_sol.pdf)
 
 
 Homework and Sample Questions
