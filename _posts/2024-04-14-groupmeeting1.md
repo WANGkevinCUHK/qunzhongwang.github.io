@@ -14,6 +14,7 @@ Paper list and Scheldue for spring group meeting.
 ### Paper List
 
 
+
 #### Machine Learning Theory:
 
 - [Computational-Statistical Gaps in Gaussian Single-Index Models](https://arxiv.org/abs/2403.05529)
@@ -30,6 +31,7 @@ Paper list and Scheldue for spring group meeting.
 - [Residual Alignment: Uncovering the Mechanisms of Residual Networks](https://arxiv.org/abs/2401.09018)
 - [Stochastic Localization via Iterative Posterior Sampling](https://arxiv.org/abs/2402.10758)
 - [The Sample Size Required in importance sampling](https://www.jstor.org/stable/26542331)
+- [Statistical algorithms and a lower bound for detecting planted cliques](https://arxiv.org/abs/1201.1214) [[My Note]](2prime.github.io/files/researchnote/sq.pdf)
 
 
 
