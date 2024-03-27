@@ -79,7 +79,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - [[Midterm cheat sheet]](https://2prime.github.io/files/linear/midterm_review.pdf) (Page 9 summarize the most important properties)
   - [[Midterm Review Problems]](https://2prime.github.io/files/linear/reviewproblem.pdf) [[Midterm Review Problems Answer]](https://2prime.github.io/files/linear/reviewanswer.pdf) [[Midterm Review Problems Filled]](https://2prime.github.io/files/linear/reviewproblemfilled.pdf)
 - Lectrue 15, Strang Section 4.1 and 4.2 (Projection and Review) 3/11 [[slide]](https://2prime.github.io/files/linear/linearslide15.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide14filled.pdf)  [[Gilbert Strag's Video 14]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-14-orthogonal-vectors-and-subspaces/) [[Gilbert Strag's Video 15]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-15-projections-onto-subspaces/)
-- Lectrue 16, Midterm, 3/13
+- Lectrue 16, Midterm, 3/13 
   -  [[Midterm cheat sheet]](https://2prime.github.io/files/linear/midterm_review.pdf) (Page 9 summarize the most important properties)
   - **Concept Questions**: [[Review Question 1]](https://2prime.github.io/files/linear/Exam1_practice_problems.pdf) [[Sample Questions]](https://2prime.github.io/files/linear/sample.pdf)
   - **Calculation Questions**: [[Compute Inverse of a Matrix]](https://www.youtube.com/watch?v=Fg7_mv3izR0) [[Compute LU]](https://2prime.github.io/files/linear/LU.pdf) [[Compute Row space, Column space, Null space]](https://2prime.github.io/files/linear/fourspace.pdf)
@@ -101,6 +101,10 @@ Quiz on gradescope
 - March 15th and March 22nd, No Recitation.
 - Mar 29 th, [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra) Quiz 6 due on Sunday covers Projection and Least square solution [[Recitation 5 Solution]](https://2prime.github.io/files/linear/recitation6_sol.pdf)
 
+Exams
+======
+- Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) [Makeup Exam](https://2prime.github.io/files/linear/midterm_makeup.pdf)
+- Final (05/10)
 
 Homework and Sample Questions
 ======
