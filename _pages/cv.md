@@ -58,7 +58,7 @@ Honors and Awards
 
 Service and leadership
 ======
-* **Area Chair**: AISTATS (2024-)
+* **Area Chair**: AISTATS (2024-), Neurips (2024-)
 * **AAAI 2024 Tutorial:** Recent Advance in Physics-Informed Machine Learning (with Prof. [*Grant Rostkoff*](https://statmech.stanford.edu/) (Stanford Chemsitry))
 * **Conference Reviewer**: ICML, Neurips, AISTATS, ICLR, ISIT, ECCV, ICCV, MSML
 * ICML2020 Top Reviewers,  Neurips 2022 Top Reviewers
