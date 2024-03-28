@@ -10,14 +10,14 @@ redirect_from:
 I am a Courant instructor at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, and an incoming tenure-track assistant professor at  [Industrial Engineering & Management Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University. I received my Ph.D. degree in applied math from Stanford University in 2023 and my Bachelor’s degree in applied math from Peking University in 2019. The long-term goal of my research is to develop a hybrid scientific research discipline that combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on an interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem, and operations research. Yiping was a recipient of the Conference on Parsimony and Learning (CPAL) Rising Star Award in 2024, the Rising Star in Data Science from the University of Chicago in 2022, the Stanford Interdisciplinary Graduate Fellowship and the SenseTime Scholarship in 2021 for undergraduates in AI in 2019.
 
 > **Research Interest**:
-- Statistical Learning Theory, Sample Complexity
-- Functional analysis, Kernel Operator and Approximation Theory
-- Stochastic Simulation, Monte Carlo Methods, Stochastic Control, Optimal Transport
-- Robust Machine Learning, Uncertainty estimation, Model calibration
-- *Application:*
-  - Scientific Machine Learning, AI4Science 
-  - Diffusion Process (simulation free methods for control)
-  - Foundation models
+> - Statistical Learning Theory, Sample Complexity
+> - Functional analysis, Kernel Operator and Approximation Theory
+> - Stochastic Simulation, Monte Carlo Methods, Stochastic Control, Optimal Transport
+> - Robust Machine Learning, Uncertainty estimation, Model calibration
+> - *Application:*
+>   - Scientific Machine Learning, AI4Science 
+>   - Diffusion Process (simulation free methods for control)
+>   - Foundation models
 
 > **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students and Postdocs. Prospective Students see [here](https://2prime.github.io/students/). Summer Intern for 2024 can see [here](https://2prime.github.io/files/SummerIntern_Yiping.pdf). You can also find information about my research [here](https://2prime.github.io/research/) 
 
