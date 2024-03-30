@@ -104,7 +104,7 @@ Quiz on gradescope
 
 Exams
 ======
-- Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) 
+- Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) [Makeup Exam](https://2prime.github.io/files/linear/midterm_makeup.pdf) 
 - Final (05/10)
 
 Homework and Sample Questions
