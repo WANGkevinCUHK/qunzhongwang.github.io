@@ -100,7 +100,7 @@ Quiz on gradescope
 - Mar 8st, [Recitation 5](https://nyu.app.box.com/s/byldpb26xejf3rerogowv51ea4r6s7hm) Quiz 5 due on Sunday covers Rank, Solvabilty, four fundemental subspaces [[Recitation 5 Solution]](https://2prime.github.io/files/linear/recitation5_sol.pdf)
 - March 15th and March 22nd, No Recitation.
 - Mar 29 th, [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra) Quiz 6 due on Sunday covers Projection and Least square solution [[Recitation 6 Solution]](https://2prime.github.io/files/linear/recitation6_sol.pdf)
-- Apr 4 th, [Recitation 7](https://nyu.box.com/s/fpvkxhuoqv3yzhpmpveg95czcoi3m2q4)  [[Recitation 7 Solution]](https://2prime.github.io/files/linear/recitation7_sol.pdf) Quiz 7 due on Sunday covers QR Decomposition
+- Apr 4 th, [Recitation 7](https://nyu.box.com/s/fpvkxhuoqv3yzhpmpveg95czcoi3m2q4)  Quiz 7 due on Sunday covers QR Decomposition [[Recitation 7 Solution]](https://2prime.github.io/files/linear/recitation7_sol.pdf)
 
 Exams
 ======
