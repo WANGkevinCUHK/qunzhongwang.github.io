@@ -11,3 +11,8 @@ location: "Evanston, IL"
 
 Required graduate course on mathematical foundations of data science.  **Syllabus**: 
 
+#### Objectives:
+- Understand statistical principles and computational tools in data science.
+- Learn concept to grasp the theoretical foundation of regression and classification.
+- Develop ability to design novel statistical learning methods.
+- Develop ability to apply existing statistical learning tools to diverse scientific fields, e.g., biology and chemistry.
