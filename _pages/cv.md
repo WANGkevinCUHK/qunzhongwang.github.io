@@ -71,6 +71,7 @@ Service and leadership
   * Communications in Mathematical Sciences
   * Research in Mathematical Sciences
   * CSIAM Transactions on Applied Mathematics
+  * SIAM Journal on Optimization
 * **Workshop/Minisymposium Organization**: ICCOPT 2022, SIAM OPT 2023
 
 <br> 
