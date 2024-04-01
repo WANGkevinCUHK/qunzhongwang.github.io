@@ -33,6 +33,7 @@ Paper list and Scheldue for spring group meeting.
 - [The Sample Size Required in importance sampling](https://www.jstor.org/stable/26542331)
 - [Statistical algorithms and a lower bound for detecting planted cliques](https://arxiv.org/abs/1201.1214) [[My Note]](https://2prime.github.io/files/researchnote/sq.pdf)
 - [Regularized DeepIV with Model Selection](https://arxiv.org/abs/2403.04236)
+- [ Statistical indistinguishability of learning algorithms](https://proceedings.mlr.press/v202/kalavasis23a.html)
 
 
 
