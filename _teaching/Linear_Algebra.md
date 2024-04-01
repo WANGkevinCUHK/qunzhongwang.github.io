@@ -48,7 +48,7 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 - Attendance & Participation 5%
 - Quizzes 15%
 - Problem Sets 10%
-- Exams 70% ( Midterm: 3/13, Final Exam: 5/13)
+- Exams 70% ( Midterm: 3/13, Final Exam: 5/10(CAS) 5/13(Tandon))
 
 Syllabus
 ======
