@@ -24,8 +24,8 @@ Logistics
 ======
 
 **Time and Location**: Monday and Wednesday
--  9:30 - 10:45 at RGSH 203 (Brooklyn) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm)
--  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm)
+-  9:30 - 10:45 at RGSH 203 (Brooklyn) (Midterm: 3/13/2024 in class, Final: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475)
+-  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm 	31 Washington Pl (Silver Ctr) Room 207)
 
 **Office Hour**:
 - 10:45 - 11:45 Monday, Wednsday room 870, 2 MTC
@@ -98,6 +98,9 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 26, Change of Basis , 4/24
 - Lecture 27, Linear Algebra's applicatoin 2 (Graph and matrix, Spectral Clustering), 4/29
 - Lecture 28, Final Review
+- Fianl:
+  - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
+  - CAS Session: Fri 05/10/2024 12:00pm-14:00pm 	31 Washington Pl (Silver Ctr) Room 207
 
 Recitation
 ======
