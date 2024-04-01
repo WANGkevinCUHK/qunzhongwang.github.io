@@ -88,6 +88,15 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 18, Section 4.4, Orthogonal basis and QR Decomposition, 3/27  [[slide]](https://2prime.github.io/files/linear/linearslide18.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide18filled.pdf) [[Gilbert Strag's Video 17]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-17-orthogonal-matrices-and-gram-schmidt/)
 - Lecture 19, Section 5.1, Determinats, 4/1 [[slide]](https://2prime.github.io/files/linear/linearslide19.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide19filled.pdf) [[Gilbert Strag's Video 18]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-18-properties-of-determinants/)
 - Lecture 20, Section 5.3, Cofactors, 4/3 [[slide]](https://2prime.github.io/files/linear/linearslide20.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide20filled.pdf) [[Gilbert Strag's Video 19]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-19-determinant-formulas-and-cofactors/)
+  - [[Properties of Determinates]](https://2prime.github.io/files/linear/determinate.pdf)
+- Lecture 21, Cramer's rule, Eigenvalues, 4/8
+- Lecture 22, Symmetric Matrix, 4/10
+- Lecture 23, Singular Value Decomposition, 4/15
+- Lecture 24, Linear Algebra's applicatoin 1(Data analysis (principal component analysis, Netflix competition)), 4/17
+- Lecture 25, Linear Transform, 4/22
+- Lecture 26, Change of Basis , 4/24
+- Lecture 27, Linear Algebra's applicatoin 2 (Graph and matrix, Spectral Clustering), 4/29
+- Lecture 28, Final Review
 
 Recitation
 ======
