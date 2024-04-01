@@ -96,7 +96,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 24, Linear Algebra's applicatoin 1 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/29 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
 - Lecture 25, Linear Transform, 4/22
 - Lecture 26, Change of Basis , 4/24
-- Lecture 27, Linear Algebra's applicatoin 2(Data analysis (principal component analysis, Netflix competition)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
+- Lecture 27, Linear Algebra's applicatoin 2(Data analysis (principal component analysis, Netflix competition, Video Analysis)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
   - Iterative Methods to solve linear Algebra, Condition Number [[link1]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_one_variable) [[link2]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables) [[link3]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_multiple_variables)
 - Lecture 28, Final Review
