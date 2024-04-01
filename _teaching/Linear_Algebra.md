@@ -92,7 +92,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 21, Cramer's rule, Eigenvalues, 4/8
 - Lecture 22, Symmetric Matrix, 4/10
 - Lecture 23, Singular Value Decomposition, 4/15
-- Lecture 24, Linear Algebra's applicatoin 1(Data analysis (principal component analysis, Netflix competition)), 4/17
+- Lecture 24, Linear Algebra's applicatoin 1(Data analysis (principal component analysis, Netflix competition)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Note 1 for pCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf)
 - Lecture 25, Linear Transform, 4/22
 - Lecture 26, Change of Basis , 4/24
