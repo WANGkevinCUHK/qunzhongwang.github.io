@@ -97,6 +97,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 26, Change of Basis , 4/24
 - Lecture 27, Linear Algebra's applicatoin 1(Data analysis (principal component analysis, Netflix competition)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Simple Note for pCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
+  - Iterative Methods to solve linear Algebra, Condition Number
 - Lecture 28, Final Review
 - Fianl:
   - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
