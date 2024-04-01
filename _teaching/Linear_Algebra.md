@@ -92,11 +92,11 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 21, Cramer's rule, Eigenvalues, 4/8
 - Lecture 22, Symmetric Matrix, 4/10
 - Lecture 23, Singular Value Decomposition, 4/15
-- Lecture 24, Linear Algebra's applicatoin 1(Data analysis (principal component analysis, Netflix competition)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
-  - [[Simple Note for pCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
+- Lecture 24, Linear Algebra's applicatoin 2 (Graph and matrix: Google Pagerank, Spectral Clustering, Semi-supervised Learning), 4/29
 - Lecture 25, Linear Transform, 4/22
 - Lecture 26, Change of Basis , 4/24
-- Lecture 27, Linear Algebra's applicatoin 2 (Graph and matrix, Spectral Clustering), 4/29
+- Lecture 27, Linear Algebra's applicatoin 1(Data analysis (principal component analysis, Netflix competition)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
+  - [[Simple Note for pCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
 - Lecture 28, Final Review
 - Fianl:
   - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
