@@ -84,7 +84,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - **Concept Questions**: [[Review Question 1]](https://2prime.github.io/files/linear/Exam1_practice_problems.pdf) [[Sample Questions]](https://2prime.github.io/files/linear/sample.pdf)
   - **Calculation Questions**: [[Compute Inverse of a Matrix]](https://www.youtube.com/watch?v=Fg7_mv3izR0) [[Compute LU]](https://2prime.github.io/files/linear/LU.pdf) [[Compute Row space, Column space, Null space]](https://2prime.github.io/files/linear/fourspace.pdf)
   - [[Past Exams at NYU]](https://nyu.app.box.com/s/sdpb1po9zgrspnueavf2pfmrvz5lukl1) [[Past Exams from MIT]](https://web.mit.edu/18.06/www/old.shtml)
-- Lecture 17, Section 4.3 , Least Square and Why Linear Algebra is useful, 3/25 [[slide]](https://2prime.github.io/files/linear/linearslide17.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide17filled.pdf) [[Gilbert Strag's Video 16]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-16-projection-matrices-and-least-squares/)
+- Lecture 17, Section 4.3 , Applications of Linear Algebra 1 (Linear Regression and Data Analysis), 3/25 [[slide]](https://2prime.github.io/files/linear/linearslide17.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide17filled.pdf) [[Gilbert Strag's Video 16]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-16-projection-matrices-and-least-squares/)
 - Lecture 18, Section 4.4, Orthogonal basis and QR Decomposition, 3/27  [[slide]](https://2prime.github.io/files/linear/linearslide18.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide18filled.pdf) [[Gilbert Strag's Video 17]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-17-orthogonal-matrices-and-gram-schmidt/)
 - Lecture 19, Section 5.1, Determinats, 4/1 [[slide]](https://2prime.github.io/files/linear/linearslide19.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide19filled.pdf) [[Gilbert Strag's Video 18]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-18-properties-of-determinants/)
 - Lecture 20, Section 5.3, Cofactors, 4/3 [[slide]](https://2prime.github.io/files/linear/linearslide20.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide20filled.pdf) [[Gilbert Strag's Video 19]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-19-determinant-formulas-and-cofactors/)
@@ -93,10 +93,10 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 22, Symmetric Matrix, 4/10
   - [[Additional reading]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables)
 - Lecture 23, Singular Value Decomposition, 4/15
-- Lecture 24, Linear Algebra's applicatoin 1 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/29 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
+- Lecture 24, Linear Algebra's applicatoin 2 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/29 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
 - Lecture 25, Linear Transform, 4/22
 - Lecture 26, Change of Basis , 4/24
-- Lecture 27, Linear Algebra's applicatoin 2(Data analysis (principal component analysis, Netflix competition, Video Analysis)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
+- Lecture 27, Linear Algebra's applicatoin 3 (Unsupervised Data analysis (principal component analysis, Netflix competition, Video Analysis)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
   - Iterative Methods to solve linear Algebra, Condition Number [[link1]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_one_variable) [[link2]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables) [[link3]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_multiple_variables)
 - Lecture 28, Final Review
