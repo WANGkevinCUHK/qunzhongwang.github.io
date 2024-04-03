@@ -13,7 +13,7 @@ Paper list and Scheldue for spring group meeting.
 
 ### Paper List
 
-
+Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 
 #### Machine Learning Theory:
 
