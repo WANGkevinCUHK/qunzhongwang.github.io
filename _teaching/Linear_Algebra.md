@@ -88,7 +88,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 18, Section 4.4, Orthogonal basis and QR Decomposition, 3/27  [[slide]](https://2prime.github.io/files/linear/linearslide18.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide18filled.pdf) [[Gilbert Strag's Video 17]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-17-orthogonal-matrices-and-gram-schmidt/)
 - Lecture 19, Section 5.1, Determinats, 4/1 [[slide]](https://2prime.github.io/files/linear/linearslide19.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide19filled.pdf) [[Gilbert Strag's Video 18]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-18-properties-of-determinants/)
 - Lecture 20, Section 5.3, Cofactors, 4/3 [[slide]](https://2prime.github.io/files/linear/linearslide20.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide20filled.pdf) [[Gilbert Strag's Video 19]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-19-determinant-formulas-and-cofactors/)
-  - [[Properties of Determinates]](https://2prime.github.io/files/linear/determinate.pdf)
+  - [[Properties of Determinates]](https://2prime.github.io/files/linear/determinate.pdf)  [[Annotated note]](https://2prime.github.io/files/linear/determinatefilled.pdf)
 - Lecture 21, Cramer's rule, Eigenvalues, 4/8
 - Lecture 22, Symmetric Matrix, 4/10
   - [[Additional reading]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables)
