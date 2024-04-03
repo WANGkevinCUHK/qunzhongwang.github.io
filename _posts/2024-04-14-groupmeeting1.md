@@ -59,3 +59,6 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [A survey of the Schrödinger problem and some of its connections with optimal transport](https://arxiv.org/pdf/1308.0215.pdf)
 - [Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport](https://arxiv.org/abs/2403.12887)
 - [The large deviation approach to statistical mechanics](https://arxiv.org/abs/0804.0327)
+
+#### AI4Science
+- [Atomic cluster expansion: Completeness, efficiency and stability](https://arxiv.org/abs/1911.03550)
