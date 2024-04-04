@@ -49,6 +49,7 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [Measure transport with kernel mean embeddings](https://arxiv.org/abs/2401.12967)
 - [Closed-form Filtering for Non-linear Systems](https://arxiv.org/abs/2402.09796)
 - [Batch and match: black-box variational inference with a score-based divergence](https://arxiv.org/abs/2402.14758)
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 
 
 #### Stochastic simulation and stochastic control
