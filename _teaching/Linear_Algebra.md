@@ -87,15 +87,18 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 17, Section 4.3 , Applications of Linear Algebra 1 (Linear Regression and Data Analysis), 3/25 [[slide]](https://2prime.github.io/files/linear/linearslide17.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide17filled.pdf) [[Gilbert Strag's Video 16]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-16-projection-matrices-and-least-squares/)
 - Lecture 18, Section 4.4, Orthogonal basis and QR Decomposition, 3/27  [[slide]](https://2prime.github.io/files/linear/linearslide18.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide18filled.pdf) [[Gilbert Strag's Video 17]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-17-orthogonal-matrices-and-gram-schmidt/)
 - Lecture 19, Section 5.1, Determinats, 4/1 [[slide]](https://2prime.github.io/files/linear/linearslide19.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide19filled.pdf) [[Gilbert Strag's Video 18]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-18-properties-of-determinants/)
-- Lecture 20, Section 5.3, Cofactors, 4/3 [[slide]](https://2prime.github.io/files/linear/linearslide20.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide20filled.pdf) [[Gilbert Strag's Video 19]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-19-determinant-formulas-and-cofactors/)
+- Lecture 20, Section 5.3, Cofactors, 4/3 [[slide]](https://2prime.github.io/files/linear/linearslide20.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide20filled.pdf) [[Gilbert Strag's Video 19]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-19-determinant-formulas-and-cofactors/) [[Gilbert Strag's Video 20]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-20-cramers-rule-inverse-matrix-and-volume/)
   - [[Properties of Determinates]](https://2prime.github.io/files/linear/determinate.pdf)  [[Annotated note]](https://2prime.github.io/files/linear/determinatefilled.pdf)
-- Lecture 21, Cramer's rule, Eigenvalues, 4/8
-- Lecture 22, Symmetric Matrix, 4/10
+- Lecture 21, Eigenvalues, 4/8  [[Gilbert Strag's Video 21]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-21-eigenvalues-and-eigenvectors/)
+- Lecture 22, Symmetric Matrix, 4/10 
   - [[Additional reading]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables)
-- Lecture 23, Singular Value Decomposition, 4/15
-- Lecture 24, Applications of Linear Algebra  2 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/29 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
-- Lecture 25, Linear Transform, 4/22
-- Lecture 26, Change of Basis , 4/24
+- Lecture 23, Singular Value Decomposition, 4/15 [[Gilbert Strag's Video 25]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-25-symmetric-matrices-and-positive-definiteness/)
+[[Gilbert Strag's Video 27]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-27-positive-definite-matrices-and-minima/)
+- Lecture 24, Applications of Linear Algebra  2 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/17 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
+  - Yiping is out of town today, so we'll record the lecture
+  - [[Gilbert Strag's Video 22]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-22-diagonalization-and-powers-of-a/) [[Gilbert Strag's Video 23]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-23-differential-equations-and-exp-at/) [[Gilbert Strag's Video 24]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-24-markov-matrices-fourier-series/)
+- Lecture 25, Linear Transform, 4/22  [[Gilbert Strag's Video 30]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-30-linear-transformations-and-their-matrices/)
+- Lecture 26, Change of Basis , 4/24 [[Gilbert Strag's Video 31]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-31-change-of-basis-image-compression/)
 - Lecture 27, Applications of Linear Algebra 3 (Unsupervised Data analysis (principal component analysis, Netflix competition, Video Analysis)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
   - Iterative Methods to solve linear Algebra, Condition Number [[link1]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_one_variable) [[link2]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables) [[link3]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_multiple_variables)
