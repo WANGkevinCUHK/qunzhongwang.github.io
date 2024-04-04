@@ -99,11 +99,12 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - [[Gilbert Strag's Video 22]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-22-diagonalization-and-powers-of-a/) [[Gilbert Strag's Video 23]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-23-differential-equations-and-exp-at/) [[Gilbert Strag's Video 24]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-24-markov-matrices-fourier-series/)
 - Lecture 25, Linear Transform, 4/22  [[Gilbert Strag's Video 30]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-30-linear-transformations-and-their-matrices/)
 - Lecture 26, Change of Basis , 4/24 [[Gilbert Strag's Video 31]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-31-change-of-basis-image-compression/)
-- Lecture 27, Applications of Linear Algebra 3 (Unsupervised Data analysis (principal component analysis, Netflix competition, Video Analysis)), 4/17 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
+- Lecture 27, Applications of Linear Algebra 3 (Unsupervised Data analysis (principal component analysis, Netflix competition, Video Analysis)), 4/29 [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
   - Iterative Methods to solve linear Algebra, Condition Number [[link1]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_one_variable) [[link2]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables) [[link3]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_multiple_variables)
-- Lecture 28, Final Review
+- Lecture 28, Final Review 5/1
 - Fianl:
+  - Final covers: Orthogonality and Projection, Least Square, Orthogonal Basis, QR Decomposition, Determinates, Cofactors, Cramer's Rule, Eigenvalue and Eigen value decomposition, Symmetric Matrix, Singular Value decomposition, Linear Transform, Change of Basis 
   - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
   - CAS Session: Fri 05/10/2024 12:00pm-14:00pm 	31 Washington Pl (Silver Ctr) Room 207
 
