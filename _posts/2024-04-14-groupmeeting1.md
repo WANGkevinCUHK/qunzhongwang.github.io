@@ -65,3 +65,4 @@ Interventions](https://arxiv.org/abs/2301.08230)
 
 #### AI4Science
 - [Atomic cluster expansion: Completeness, efficiency and stability](https://arxiv.org/abs/1911.03550)
+- [Recent mathematical advances in coupled cluster theory ](https://arxiv.org/abs/2401.07383) and [Fabian's](https://fabianfaulstich.com/links.html) papers.
