@@ -20,6 +20,8 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [The CLT in high dimensions: quantitative bounds via martingale embedding](https://arxiv.org/abs/1806.09087)
 - [Statistical algorithms and a lower bound for detecting planted cliques](https://arxiv.org/abs/1201.1214) [[My Note]](https://2prime.github.io/files/researchnote/sq.pdf)
 - [Localization schemes: A framework for proving mixing bounds for Markov chains](https://ieeexplore.ieee.org/abstract/document/9996618?casa_token=ApdMYTmDrtQAAAAA:D7DQOJJzM3japKKvjNocHJ9UGYYLN6MNsTKIsSO_Adfl_nb9VcT63fLpbJkohV4I35EbgqOPiQ)
+- [Optimal Learning](https://link.springer.com/article/10.1007/s10092-023-00564-y)
+- [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
 
 #### Machine Learning Theory:
 
@@ -30,7 +32,6 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [How Transformers Learn Causal Structure with Gradient Descent](https://arxiv.org/abs/2402.14735)
 - [Saddle-to-Saddle Dynamics in Diagonal Linear Networks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/17a9ab4190289f0e1504bbb98d1d111a-Abstract-Conference.html)
 - [Learning time-scales in two-layers neural networks](https://arxiv.org/abs/2303.00055)
-- [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
 - [A duality framework for generalization analysis of random feature models and two-layer neural networks](https://arxiv.org/abs/2305.05642)
 - [Generalization in kernel regression under realistic assumptions](https://arxiv.org/abs/2312.15995)
 - [Characterizing Overfitting in Kernel Ridgeless Regression Through the Eigenspectrum](https://arxiv.org/abs/2402.01297)
