@@ -90,9 +90,9 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 20, Section 5.3, Cofactors, 4/3 [[slide]](https://2prime.github.io/files/linear/linearslide20.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide20filled.pdf) [[Gilbert Strag's Video 19]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-19-determinant-formulas-and-cofactors/) [[Gilbert Strag's Video 20]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-20-cramers-rule-inverse-matrix-and-volume/)
   - [[Properties of Determinates]](https://2prime.github.io/files/linear/determinate.pdf)  [[Annotated note]](https://2prime.github.io/files/linear/determinatefilled.pdf)
 - Lecture 21, Eigenvalues, 4/8  [[slide]](https://2prime.github.io/files/linear/linearslide21.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide21filled.pdf) [[Gilbert Strag's Video 21]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-21-eigenvalues-and-eigenvectors/)
-- Lecture 22, Diagonalization , 4/10 [[slide]](https://2prime.github.io/files/linear/linearslide22.pdf) 
-  - [[Additional reading]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables)
+- Lecture 22, Diagonalization , 4/10 [[slide]](https://2prime.github.io/files/linear/linearslide22.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide22filled.pdf)
 - Lecture 23, Symmetric Matrix, 4/15 [[Gilbert Strag's Video 25]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-25-symmetric-matrices-and-positive-definiteness/)
+  - [[Additional reading]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables)
 [[Gilbert Strag's Video 27]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-27-positive-definite-matrices-and-minima/)
 - Lecture 24, Applications of Linear Algebra  2 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/17 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
   - Yiping is out of town today, so we'll record the lecture
