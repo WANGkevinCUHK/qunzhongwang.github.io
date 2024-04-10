@@ -19,7 +19,8 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 #### Techiques
 - [The CLT in high dimensions: quantitative bounds via martingale embedding](https://arxiv.org/abs/1806.09087)
 - [Statistical algorithms and a lower bound for detecting planted cliques](https://arxiv.org/abs/1201.1214) [[My Note]](https://2prime.github.io/files/researchnote/sq.pdf)
-- 
+- [Localization schemes: A framework for proving mixing bounds for Markov chains](https://ieeexplore.ieee.org/abstract/document/9996618?casa_token=ApdMYTmDrtQAAAAA:D7DQOJJzM3japKKvjNocHJ9UGYYLN6MNsTKIsSO_Adfl_nb9VcT63fLpbJkohV4I35EbgqOPiQ)
+
 #### Machine Learning Theory:
 
 - [Computational-Statistical Gaps in Gaussian Single-Index Models](https://arxiv.org/abs/2403.05529)
