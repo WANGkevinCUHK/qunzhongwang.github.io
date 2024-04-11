@@ -139,7 +139,7 @@ This [video](https://drive.google.com/file/d/14kDD71aLOqob6ScXUGEyFYcb7P5_kx1E/v
 - Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://www.overleaf.com/read/tfrvpzdkhkcd#65907a) - Due by midnight on Friday 2/9, [[solution]](https://2prime.github.io/files/linear/Linear_PS1_Solutions.pdf)
 - Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://www.overleaf.com/read/hbxxxqdhfrby#852c8f) - Due by midnight on Friday 2/23, [[solution]](https://2prime.github.io/files/linear/Linear_PS2_Solutions.pdf)
 - Problem Set 3 [pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://www.overleaf.com/read/gvtyyvzvnkyz#3b9b41) - Due by midnight on Friday 3/8, [[solution]](https://2prime.github.io/files/linear/Linear_PS3_Solutions.pdf)
-- Problem Set 4 [pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://www.overleaf.com/read/hdrkjmsskbnq#2d79be) - Due by midnight on Friday 4/5
+- Problem Set 4 [pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://www.overleaf.com/read/hdrkjmsskbnq#2d79be) - Due by midnight on Friday 4/5, [[solution]](https://2prime.github.io/files/linear/Linear_PS4_Solutions.pdf)
 - Problem Set 5 [pdf](https://nyu.box.com/s/cbkc8abzxo8v6jcv8s14povuxildfa9d), [Latex](https://www.overleaf.com/read/rgxgrzypnrnx#a231cc) - Due by midnight on Friday 4/19
 - Problem Set 6 [pdf](https://nyu.box.com/s/37o1xzvk3me22l1nkm3xe3qlxmzv0xyl), [Latex](https://www.overleaf.com/read/dkdpgqqwwyhb#2d1c8c) - Due by midnight on Friday 5/3
 
