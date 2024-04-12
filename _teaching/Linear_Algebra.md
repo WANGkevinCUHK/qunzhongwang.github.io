@@ -124,6 +124,8 @@ Quiz on gradescope
 - Apr 19 th, [Recitation 9](https://nyu.box.com/s/up4tddsav0oseznz3fsficdz9rpaxr2z) Quiz 9 due on Sunday covers eigenvalue and eigenvectors.
 - Apr 26 th, [Recitation 10](https://nyu.box.com/s/dz3t5elvkwvxjs7k4uzr9dlv8hjythst)
 - May 3 th, [Recitation 11](https://nyu.box.com/s/byn27m85xzmwnruprr23b4b590etncej)
+
+  
 Exams
 ======
 - Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) [Makeup Exam](https://2prime.github.io/files/linear/midterm_makeup.pdf) 
