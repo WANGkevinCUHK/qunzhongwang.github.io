@@ -120,9 +120,10 @@ Quiz on gradescope
 - March 15th and March 22nd, No Recitation.
 - Mar 29 th, [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra) Quiz 6 due on Sunday covers Projection and Least square solution [[Recitation 6 Solution]](https://2prime.github.io/files/linear/recitation6_sol.pdf)
 - Apr 5 th, [Recitation 7](https://nyu.box.com/s/fpvkxhuoqv3yzhpmpveg95czcoi3m2q4)  Quiz 7 due on Sunday covers QR Decomposition [[Recitation 7 Solution]](https://2prime.github.io/files/linear/recitation7_sol.pdf)
-- Apr 12 th, [Recitation 8](https://nyu.box.com/s/ffdxen57e9pm0bc9jbvuq53ijmitwp42) Quiz 8 due on Sunday covers determinant and Cramer's Rule.
+- Apr 12 th, [Recitation 8](https://nyu.box.com/s/ffdxen57e9pm0bc9jbvuq53ijmitwp42) Quiz 8 due on Sunday covers determinant and Cramer's Rule. [[Recitation 8 Solution]](https://2prime.github.io/files/linear/recitation8_sol.pdf)
 - Apr 19 th, [Recitation 9](https://nyu.box.com/s/up4tddsav0oseznz3fsficdz9rpaxr2z) Quiz 9 due on Sunday covers eigenvalue and eigenvectors.
-
+- Apr 26 th, [Recitation 10](https://nyu.box.com/s/dz3t5elvkwvxjs7k4uzr9dlv8hjythst)
+- May 3 th, [Recitation 11](https://nyu.box.com/s/byn27m85xzmwnruprr23b4b590etncej)
 Exams
 ======
 - Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) [Makeup Exam](https://2prime.github.io/files/linear/midterm_makeup.pdf) 
