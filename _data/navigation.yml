@@ -20,8 +20,8 @@ main:
   - title: "Group Meeting"
     url: /year-archive/
 
-    - title: "Notes"
-    url: /publications/
+  - title: "Notes"
+    url: /blogs/
     
   - title: "CV"
     url: /cv/
