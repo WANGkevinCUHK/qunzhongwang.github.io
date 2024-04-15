@@ -22,6 +22,7 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [Localization schemes: A framework for proving mixing bounds for Markov chains](https://ieeexplore.ieee.org/abstract/document/9996618?casa_token=ApdMYTmDrtQAAAAA:D7DQOJJzM3japKKvjNocHJ9UGYYLN6MNsTKIsSO_Adfl_nb9VcT63fLpbJkohV4I35EbgqOPiQ)
 - [Optimal Learning](https://link.springer.com/article/10.1007/s10092-023-00564-y)
 - [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
+- [Optimal Stable Nonlinear Approximation](https://arxiv.org/abs/2009.09907)
 
 #### Machine Learning Theory:
 
