@@ -20,9 +20,8 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [The CLT in high dimensions: quantitative bounds via martingale embedding](https://arxiv.org/abs/1806.09087)
 - [Statistical algorithms and a lower bound for detecting planted cliques](https://arxiv.org/abs/1201.1214) [[My Note]](https://2prime.github.io/files/researchnote/sq.pdf)
 - [Localization schemes: A framework for proving mixing bounds for Markov chains](https://ieeexplore.ieee.org/abstract/document/9996618?casa_token=ApdMYTmDrtQAAAAA:D7DQOJJzM3japKKvjNocHJ9UGYYLN6MNsTKIsSO_Adfl_nb9VcT63fLpbJkohV4I35EbgqOPiQ)
-- [Optimal Learning](https://link.springer.com/article/10.1007/s10092-023-00564-y)
 - [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
-- [Optimal Stable Nonlinear Approximation](https://arxiv.org/abs/2009.09907)
+- [Optimal Stable Nonlinear Approximation](https://arxiv.org/abs/2009.09907), [Optimal Learning](https://link.springer.com/article/10.1007/s10092-023-00564-y)
 
 #### Machine Learning Theory:
 
