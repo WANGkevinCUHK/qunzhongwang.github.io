@@ -96,9 +96,9 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 [[Gilbert Strag's Video 27]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-27-positive-definite-matrices-and-minima/)
   - [Why symmteric matrix has real eigenvalues](https://2prime.github.io/files/linear/symmetricnote.pdf)
 - Lecture 24, Applications of Linear Algebra  2 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/17 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
-  - Yiping is out of town today, so we'll record the lecture
+  - Yiping is out of town today, so we'll record the lecture [[Video]](https://nyu.zoom.us/rec/share/aNcav5RU-KTKQStPbp7BZtbmCgZnvvH5mDtj8H9MJBZPjOcUqeslpqWgUe1HW8k8.nKJkojoWB5tocVNI?startTime=1713219804000)
   - [[Take Home Exerciese]](https://2prime.github.io/files/linear/eigenexercise.pdf)
-  - [power methods](https://web.mit.edu/18.06/www/Spring17/Power-Method.pdf) 
+  - [[power methods]](https://web.mit.edu/18.06/www/Spring17/Power-Method.pdf) 
   - [[Gilbert Strag's Video 22]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-22-diagonalization-and-powers-of-a/) [[Gilbert Strag's Video 23]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-23-differential-equations-and-exp-at/) [[Gilbert Strag's Video 24]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-24-markov-matrices-fourier-series/)
 - Lecture 25, Singular Value Decomposition , 4/22  [[Gilbert Strag's Video 30]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-30-linear-transformations-and-their-matrices/)
 - Lecture 26, Linear Transform and Change of Basis , 4/24 [[Gilbert Strag's Video 31]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-31-change-of-basis-image-compression/)
