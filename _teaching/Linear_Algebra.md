@@ -94,6 +94,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 23, Symmetric Matrix, 4/15 [[slide]](https://2prime.github.io/files/linear/linearslide23.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide23filled.pdf) [[Gilbert Strag's Video 25]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-25-symmetric-matrices-and-positive-definiteness/)
   - [[Additional reading]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables)
 [[Gilbert Strag's Video 27]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-27-positive-definite-matrices-and-minima/)
+  - [Why symmteric matrix has real eigenvalues](https://2prime.github.io/files/linear/symmetricnote.pdf)
 - Lecture 24, Applications of Linear Algebra  2 (Graph as matrix: Google Pagerank, Social Network Community Detection), 4/17 [[Slide]](https://2prime.github.io/files/linear/Spectral.pdf)
   - Yiping is out of town today, so we'll record the lecture
   - [[Gilbert Strag's Video 22]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-22-diagonalization-and-powers-of-a/) [[Gilbert Strag's Video 23]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-23-differential-equations-and-exp-at/) [[Gilbert Strag's Video 24]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-24-markov-matrices-fourier-series/)
