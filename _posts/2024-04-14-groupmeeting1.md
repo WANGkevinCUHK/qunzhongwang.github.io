@@ -62,6 +62,7 @@ Interventions](https://arxiv.org/abs/2301.08230)
 
 #### Stochastic simulation and stochastic control
 
+- [Can local particle filters beat the curse of dimensionality?](https://arxiv.org/abs/1301.6585)
 - [Stochastic Optimal Control Matching](https://arxiv.org/abs/2312.02027)
 - [Sinkhorn Flow: A Continuous-Time Framework for Understanding and Generalizing the Sinkhorn Algorithm](https://arxiv.org/abs/2311.16706)
 - [Diffusion Schrödinger bridge matching](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c428adf74782c2092d254329b6b02482-Abstract-Conference.html)
