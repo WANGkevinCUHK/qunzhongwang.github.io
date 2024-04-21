@@ -27,9 +27,9 @@ I will dedicate 30 mins every week for junior PhD/master/undergraduate students,
 - 2024: [Kaizhao Liu](https://drzfct.github.io/) (a fast bootstrapping method, a first author paper submitted to ICML, PKU-> ?),
 - 2025: Zexi Fan (machine learning for rare event and stochastic simulation, PKU-> ?)
 
-<!-- Siyuan Tang (Fine-Tuning Language Moel, USTC->?, co-supervised with [Minshuo Chen](https://minshuochen.github.io/)), Youheng Zhu(HUST->?), Hounam Wong (HKUST->?, Kernel Learning), Ruihan Xu(SJTU->?, Sketching and Randomized Linear Algebra), Yawen Liu (Machine learning for control, co-supervised with Nian Si)-->
+<!-- 2024: Siyuan Tang (Fine-Tuning Language Moel, USTC->?, co-supervised with [Minshuo Chen](https://minshuochen.github.io/)), Youheng Zhu(HUST->?, scientific machine learning), Hounam Wong (HKUST->?, Kernel Learning), Ruihan Xu(SJTU->?, Sketching and Randomized Linear Algebra), Yawen Liu (Machine learning for control, co-supervised with Nian Si)-->
 
-<!-- Wendao Wu-->
+<!--2025: Wendao Wu-->
 
 <br> 
 <br> 
