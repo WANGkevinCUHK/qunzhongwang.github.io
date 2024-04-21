@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My research lies in the interface of **machine learning/non-parametric statistics**, **applied probability** and  **numerical computation**, with a primary focus on the algorithmic and theoretical foundations for solving `model based/informed` data-driven problems. 
+My research lies in the interface of **machine learning/non-parametric statistics**, **applied probability** and  **numerical computation**, with a primary focus on the algorithmic and theoretical foundations for more "modern" settings such as `Deep Learnig`, `Generative AI` and `AI4Science`. 
 
  ![avatar](research.png)
 
