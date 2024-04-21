@@ -29,5 +29,7 @@ I will dedicate 30 mins every week for junior PhD/master/undergraduate students,
 
 <!-- Siyuan Tang (Fine-Tuning Language Moel, USTC->?, co-supervised with [Minshuo Chen](https://minshuochen.github.io/)), Youheng Zhu(HUST->?), Hounam Wong (HKUST->?, Kernel Learning), Ruihan Xu(SJTU->?, Sketching and Randomized Linear Algebra), Yawen Liu (Machine learning for control, co-supervised with Nian Si)-->
 
+<!-- Wendao Wu-->
+
 <br> 
 <br> 
