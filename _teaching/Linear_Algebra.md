@@ -101,7 +101,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - [[power methods]](https://web.mit.edu/18.06/www/Spring17/Power-Method.pdf) 
   - [[Gilbert Strag's Video 22]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-22-diagonalization-and-powers-of-a/) [[Gilbert Strag's Video 23]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-23-differential-equations-and-exp-at/) [[Gilbert Strag's Video 24]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-24-markov-matrices-fourier-series/)
 - Lecture 25, Singular Value Decomposition , 4/22 [[slide]](https://2prime.github.io/files/linear/linearslide24.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide24filled.pdf) [[Gilbert Strag's Video 30]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-30-linear-transformations-and-their-matrices/)
-- Lecture 26, Review on Eigenvalue and SVD, 4/24
+- Lecture 26, Review on Eigenvalue and SVD, 4/24 [[notes]](https://2prime.github.io/files/linear/svd.pdf)
   - Review Exercise [[pdf]](https://2prime.github.io/files/linear/eigenexercise.pdf)
   - Applications of Linear Algebra 3 (Unsupervised Data analysis (principal component analysis, Netflix competition, Video Analysis)) [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
   - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [Another Note on PCA](https://web.mit.edu/18.06/www/Spring17/Statistics-and-PCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)
