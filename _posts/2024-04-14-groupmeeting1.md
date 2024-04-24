@@ -43,6 +43,7 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [Majority-of-Three: The Simplest Optimal Learner?](https://arxiv.org/abs/2403.08831)
 - [The fundamental limits of structure-agnostic functional estimation](https://arxiv.org/abs/2305.04116)
 - [Detection in the stochastic block model with multiple clusters: proof of the achievability conjectures, acyclic BP, and the information-computation gap](https://arxiv.org/abs/1512.09080)
+- [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)
 
 
 
