@@ -22,7 +22,7 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [Localization schemes: A framework for proving mixing bounds for Markov chains](https://ieeexplore.ieee.org/abstract/document/9996618?casa_token=ApdMYTmDrtQAAAAA:D7DQOJJzM3japKKvjNocHJ9UGYYLN6MNsTKIsSO_Adfl_nb9VcT63fLpbJkohV4I35EbgqOPiQ)
 - [Dualizing Le Cam's method for functional estimation, with applications to estimating the unseens](https://arxiv.org/abs/1902.05616)
 - [Optimal Stable Nonlinear Approximation](https://arxiv.org/abs/2009.09907), [Optimal Learning](https://link.springer.com/article/10.1007/s10092-023-00564-y)
-- [The Covering Number in LearningTheory](https://members.cbio.mines-paristech.fr/~jvert/svn/bibli/local/Zhou2002covering.pdf), [Capacity of Reproducing Kernel Spaces in Learning Theory](https://ieeexplore.ieee.org/document/1207372) [Covering numbers of Gaussian reproducing kernel Hilbert spaces](https://www.sciencedirect.com/science/article/pii/S0885064X11000069)
+- [The Covering Number in LearningTheory](https://members.cbio.mines-paristech.fr/~jvert/svn/bibli/local/Zhou2002covering.pdf), [Capacity of Reproducing Kernel Spaces in Learning Theory](https://ieeexplore.ieee.org/document/1207372), [Covering numbers of Gaussian reproducing kernel Hilbert spaces](https://www.sciencedirect.com/science/article/pii/S0885064X11000069)
 
 #### Machine Learning Theory:
 
