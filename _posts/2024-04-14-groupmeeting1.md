@@ -11,6 +11,16 @@ Paper list and Scheldue for spring group meeting.
 
 ### Scheldue
 
+- 5/27 Simulation Free algorithms (Diffusion) and Stochastic Control
+- 6/2 Overall of Yiping's research and Organization metting
+- 6/9 Mean-Field Lagevin for feature learning
+- 6/16 Reproducing Kernel Space and Statistical Query Bounds
+- 6/23 [Why does the two-timescale Q-learning converge to different mean field solutions? A unified convergence analysis](https://arxiv.org/abs/2404.04357)
+- 6/30 Optimal Stable Nonlinear Approximation/Scaling Law
+- 7/7 Hybrid Scientific computing and Machine learning
+- 7/14 [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)
+- 7/21 Variational Monte Carlo 
+
 ### Paper List
 
 Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
