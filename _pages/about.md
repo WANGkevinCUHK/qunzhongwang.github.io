@@ -41,7 +41,8 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 ## Debiasing Machine Learning Algorithm for Scientific Computing
 
-> 1.<font color='red'>[*New*]</font>  Jose Blanchet, Haoxuan Chen, **Yiping Lu**, Lexing Ying. When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality (alphabetical order) Neurips 2023
+> 1. Kaizhao Liu, Jose Blanchet, Lexing Ying , Yiping Lu. Orthogonal Bootstrap: Efficient Simulation of Input Uncertainty, submitted, 2024.
+> 2. <font color='red'>[*New*]</font>  Jose Blanchet, Haoxuan Chen, **Yiping Lu**, Lexing Ying. When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality (alphabetical order) Neurips 2023
 
 ## Experiment Design
 
