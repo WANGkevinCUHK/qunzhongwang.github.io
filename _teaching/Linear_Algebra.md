@@ -25,7 +25,7 @@ Logistics
 
 **Time and Location**: Monday and Wednesday
 -  9:30 - 10:45 at RGSH 203 (Brooklyn) (Midterm: 3/13/2024 in class, Final: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475)
--  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm 	31 Washington Pl (Silver Ctr) Room 207)
+-  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Fri 05/10/2024 12:00pm-14:00pm 		Cantor Film Center, Room 102)
 
 **Office Hour**:
 - 10:45 - 11:45 Monday, Wednsday room 870, 2 MTC
@@ -109,7 +109,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - Past Exams: [link](https://nyu.app.box.com/s/sdpb1po9zgrspnueavf2pfmrvz5lukl1)
   - Final covers: Orthogonality and Projection, Least Square, Orthogonal Basis, QR Decomposition, Determinates, Cofactors, Cramer's Rule, Eigenvalue and Eigen value decomposition, Symmetric Matrix, Singular Value decomposition, Linear Transform, Change of Basis 
   - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
-  - CAS Session: Fri 05/10/2024 12:00pm-14:00pm 	31 Washington Pl (Silver Ctr) Room 207
+  - CAS Session: Fri 05/10/2024 12:00pm-14:00pm 	Cantor Film Center, Room 102
 
 
 
