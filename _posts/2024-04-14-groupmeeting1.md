@@ -36,6 +36,8 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 
 #### Machine Learning Theory:
 
+- [kernel ridge regression inference](https://arxiv.org/abs/2302.06578v1)
+- [Localization, convexity, and star aggregation](https://arxiv.org/abs/2105.08866)
 - [Computational-Statistical Gaps in Gaussian Single-Index Models](https://arxiv.org/abs/2403.05529)
 - [Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension](https://arxiv.org/abs/2305.14077)
 - [Adaptive learning rates for support vector machines working on data with low intrinsic dimension](https://arxiv.org/abs/2003.06202)
