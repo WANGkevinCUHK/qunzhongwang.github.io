@@ -133,7 +133,7 @@ Quiz on gradescope
 - Apr 12 th, [Recitation 8](https://nyu.box.com/s/ffdxen57e9pm0bc9jbvuq53ijmitwp42) Quiz 8 due on Sunday covers determinant and Cramer's Rule. [[Recitation 8 Solution]](https://2prime.github.io/files/linear/recitation8_sol.pdf)
 - Apr 19 th, [Recitation 9](https://nyu.box.com/s/up4tddsav0oseznz3fsficdz9rpaxr2z) Quiz 9 due on Sunday covers eigenvalue and eigenvectors. [[Recitation 9 Solution]](https://2prime.github.io/files/linear/recitation9_sol.pdf)
 - Apr 26 th, [Recitation 10](https://nyu.box.com/s/dz3t5elvkwvxjs7k4uzr9dlv8hjythst) Quzi 10 due on Sunday covers diagonalization [[Recitation 10 Solution]](https://2prime.github.io/files/linear/recitation10_sol.pdf)
-- May 3 th, [Recitation 11](https://nyu.box.com/s/byn27m85xzmwnruprr23b4b590etncej) [[Recitation 11 Solution]](https://2prime.github.io/files/linear/recitation8_sol.pdf)
+- May 3 th, [Recitation 11](https://nyu.box.com/s/byn27m85xzmwnruprr23b4b590etncej) Quzi 11 due on Sunday covers SVD, linear transform and change of basis [[Recitation 11 Solution]](https://2prime.github.io/files/linear/recitation11_sol.pdf)
 
   
 Exams
