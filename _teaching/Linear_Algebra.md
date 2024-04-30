@@ -105,7 +105,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - Review Exercise [[pdf]](https://2prime.github.io/files/linear/eigenexercise.pdf)
 - Lecture 27, Linear Transform and Change of Basis , 4/29  [[Note]](https://2prime.github.io/files/linear/lineartransform.pdf)  [[slide1]](https://2prime.github.io/files/linear/linearslide25filled.pdf) [[slide2]](https://2prime.github.io/files/linear/linearslide26filled.pdf)   [[Gilbert Strag's Video 30]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-30-linear-transformations-and-their-matrices/) [[Gilbert Strag's Video 31]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-31-change-of-basis-image-compression/)
 - Lecture 28, Final Review 5/1
-- Final: [[Review Note]]() [[Review Questions]](https://nyu.app.box.com/s/5xjgf8evw83hto4km8qv7qwu1e2l9j7m) [[Review Question Answers]](https://nyu.app.box.com/s/9vp5idyqhwbodzaulk0kslzibf6h6ies)
+- Final: [[Review Note]](https://2prime.github.io/files/linear/finalreviewlinear.pdf) [[Review Questions]](https://nyu.app.box.com/s/5xjgf8evw83hto4km8qv7qwu1e2l9j7m) [[Review Question Answers]](https://nyu.app.box.com/s/9vp5idyqhwbodzaulk0kslzibf6h6ies)
   - Past Exams: [link](https://nyu.app.box.com/s/sdpb1po9zgrspnueavf2pfmrvz5lukl1)
   - Final covers: Orthogonality and Projection, Least Square, Orthogonal Basis, QR Decomposition, Determinates, Cofactors, Cramer's Rule, Eigenvalue and Eigen value decomposition, Symmetric Matrix, Singular Value decomposition, Linear Transform, Change of Basis 
   - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
