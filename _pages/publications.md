@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 
-- Kaizhao Liu, Jose Blanchet, Lexing Ying , **Yiping Lu**. [Orthogonal Bootstrap: Efficient Simulation of Input Uncertainty](https://arxiv.org/abs/2404.19145), *submitted*, 2024.
+- Kaizhao Liu, Jose Blanchet, Lexing Ying , **Yiping Lu**. [Orthogonal Bootstrap: Efficient Simulation of Input Uncertainty](https://arxiv.org/abs/2404.19145),  The Forty-first International Conference on Machine Learning (ICML), 2024.
 
 - **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. [Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls](https://arxiv.org/pdf/2211.15241),  40th Conference on Uncertainty in Artificial Intelligence (UAI 2024) <font color='red'>[Oral]</font>.  
 
