@@ -46,7 +46,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 ## Experiment Design
 
-> 1.<font color='red'>[*New*]</font> **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
+> 1.<font color='red'>[*New*]</font> **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls, 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024) (Oral)
 
   
 ## Algorithms and Statistics of Scientific Machine Learning
