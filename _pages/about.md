@@ -66,7 +66,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 >
 >  2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019 (*equal contribution) 
 >  
->  3. <font color='red'>[*New*]</font>  **Yiping Lu**, Wenlong Ji, Zach Izzo, et al. Importance Tempering: Group Robustness for Overparameterized Models. arXiv preprint arXiv:2209.08745, 2022.
+>  3.  **Yiping Lu**, Wenlong Ji, Zach Izzo, et al. Importance Tempering: Group Robustness for Overparameterized Models. arXiv preprint arXiv:2209.08745, 2022.
  
 ## Optimal Control Formulation of Deep Learning
 
