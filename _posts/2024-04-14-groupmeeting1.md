@@ -87,6 +87,8 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport](https://arxiv.org/abs/2403.12887)
 - [The large deviation approach to statistical mechanics](https://arxiv.org/abs/0804.0327)
 - [Shifted Composition I: Harnack and Reverse Transport Inequalities](https://arxiv.org/abs/2311.14520)
+- [Geometry and analytic properties of the sliced Wasserstein space](https://arxiv.org/abs/2311.05134)
+- [Statistical-Computational Trade-offs in Tensor PCA and Related Problems via Communication Complexity](https://arxiv.org/abs/2204.07526)
 
 #### AI4Science
 - [Atomic cluster expansion: Completeness, efficiency and stability](https://arxiv.org/abs/1911.03550)
