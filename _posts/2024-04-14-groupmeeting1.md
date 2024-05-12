@@ -60,6 +60,7 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [When do exact and powerful p-values and e-values exist?](https://arxiv.org/abs/2305.16539)
 - [A Tale of Tails: Model Collapse as a Change of Scaling Laws](https://arxiv.org/abs/2402.07043)
 - [Understanding LLMs Requires More Than Statistical Generalization](https://arxiv.org/abs/2405.01964)
+- [The Perception-Distortion Tradeoff](https://openaccess.thecvf.com/content_cvpr_2018/papers/Blau_The_Perception-Distortion_Tradeoff_CVPR_2018_paper.pdf), [A Theory of the Distortion-Perception Tradeoff in Wasserstein Space](https://proceedings.neurips.cc/paper/2021/file/d77e68596c15c53c2a33ad143739902d-Paper.pdf)
 
 
 
