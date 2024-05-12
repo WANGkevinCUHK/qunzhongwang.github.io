@@ -59,6 +59,7 @@ Other good reading group: [ML Thoery @ GT](https://mltheory.github.io/)
 - [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)
 - [When do exact and powerful p-values and e-values exist?](https://arxiv.org/abs/2305.16539)
 - [A Tale of Tails: Model Collapse as a Change of Scaling Laws](https://arxiv.org/abs/2402.07043)
+- [Understanding LLMs Requires More Than Statistical Generalization](https://arxiv.org/abs/2405.01964)
 
 
 
