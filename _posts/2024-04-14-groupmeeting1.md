@@ -76,6 +76,8 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [Closed-form Filtering for Non-linear Systems](https://arxiv.org/abs/2402.09796)
 - [Batch and match: black-box variational inference with a score-based divergence](https://arxiv.org/abs/2402.14758)
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
+- [Statistical-Computational Trade-offs in Tensor PCA and Related Problems via Communication Complexity](https://arxiv.org/abs/2204.07526)
+
 
 
 #### Stochastic simulation and stochastic control
@@ -89,9 +91,8 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport](https://arxiv.org/abs/2403.12887)
 - [The large deviation approach to statistical mechanics](https://arxiv.org/abs/0804.0327)
 - [Shifted Composition I: Harnack and Reverse Transport Inequalities](https://arxiv.org/abs/2311.14520)
-- [Geometry and analytic properties of the sliced Wasserstein space](https://arxiv.org/abs/2311.05134)
-- [Statistical-Computational Trade-offs in Tensor PCA and Related Problems via Communication Complexity](https://arxiv.org/abs/2204.07526)
-
+- [Geometry and analytic properties of the sliced Wasserstein space](https://arxiv.org/abs/2311.05134) (section 5)
+  
 #### AI4Science
 - [Atomic cluster expansion: Completeness, efficiency and stability](https://arxiv.org/abs/1911.03550)
 - [Recent mathematical advances in coupled cluster theory ](https://arxiv.org/abs/2401.07383) and [Fabian's](https://fabianfaulstich.com/links.html) papers.
