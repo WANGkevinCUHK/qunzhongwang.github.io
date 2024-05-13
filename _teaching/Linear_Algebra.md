@@ -111,13 +111,16 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
   - Past Exams: [link](https://nyu.app.box.com/s/sdpb1po9zgrspnueavf2pfmrvz5lukl1)
   - Tandon Session: Mon 5/13/2024 8:00AM - 10:00AM Tandon, Jacobs Academic Bldg Room 475
   - CAS Session: Fri 05/10/2024 12:00pm-14:00pm 	Cantor Film Center, Room 102
-
+    
+Exams
+======
+- Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) [Makeup Exam](https://2prime.github.io/files/linear/midterm_makeup.pdf) 
+- Final (05/10) [Morning Session](https://2prime.github.io/files/linear/linear_final.pdf) 
 
 
 **Additional reading (Not required for final)**
 - Applications of Linear Algebra 3 (Unsupervised Data analysis (principal component analysis, Netflix competition, Video Analysis)) [[Slide]](https://2prime.github.io/files/linear/PCA.pdf)
 - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [Another Note on PCA](https://web.mit.edu/18.06/www/Spring17/Statistics-and-PCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)  
-- Iterative Methods to solve linear Algebra, Condition Number [[link1]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_one_variable) [[link2]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables) [[link3]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_multiple_variables)
 
 
 ChatGPT
