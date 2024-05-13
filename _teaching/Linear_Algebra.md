@@ -104,6 +104,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - Lecture 26, Review on Eigenvalue and SVD, 4/24 [[notes version 1]](https://2prime.github.io/files/linear/svd.pdf) [[notes version 2]](https://2prime.github.io/files/linear/svd2.pdf) [[Gilbert Strag's Video 29]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-29-singular-value-decomposition/)
   - Review Exercise [[pdf]](https://2prime.github.io/files/linear/eigenexercise.pdf)
 - Lecture 27, Linear Transform and Change of Basis , 4/29  [[Note]](https://2prime.github.io/files/linear/lineartransform.pdf)  [[slide1]](https://2prime.github.io/files/linear/linearslide25filled.pdf) [[slide2]](https://2prime.github.io/files/linear/linearslide26filled.pdf)   [[Gilbert Strag's Video 30]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-30-linear-transformations-and-their-matrices/) [[Gilbert Strag's Video 31]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-31-change-of-basis-image-compression/)
+  - [[Polynomial Example]](https://2prime.github.io/files/linear/transformpoly.pdf)
 - Lecture 28, Final Review 5/1
 - Final: [[Review Note]](https://2prime.github.io/files/linear/finalreviewlinear.pdf) [[Review Questions]](https://2prime.github.io/files/linear/finalreviewblanck.pdf) [[Review Question Answers]](https://2prime.github.io/files/linear/finalreviewfilled.pdf)
   - Covers: [note](https://2prime.github.io/files/linear/finalsheet.pdf) Projection, QR Decomposition Gram-schmidt, least squre, Determinates, Cofactors, Cramer's Rule, diagnoalization (Eigendecomposition), Symmetric Matrix, SVD, finding the orthonormal basis of the four fundemental subspaces, Linear Transformation Check, Change of Basis.
@@ -118,43 +119,6 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5), Practi
 - [[Simple Note for PCA]](https://2prime.github.io/files/linear/NoteofPCA.pdf) [Another Note on PCA](https://web.mit.edu/18.06/www/Spring17/Statistics-and-PCA.pdf) [[Advanced Reading]](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch18.pdf)  
 - Iterative Methods to solve linear Algebra, Condition Number [[link1]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_one_variable) [[link2]](https://calculus.subwiki.org/wiki/Quadratic_function_of_multiple_variables) [[link3]](https://calculus.subwiki.org/wiki/Gradient_descent_with_constant_learning_rate_for_a_quadratic_function_of_multiple_variables)
 
-Recitation
-======
-Quiz on gradescope
-- Feb 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [[Recitation1 Solution]](https://2prime.github.io/files/linear/recitation1_sol.pdf)
-- Feb 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), No Quiz, # [[Recitation2 Solution]](https://2prime.github.io/files/linear/recitation2_sol.pdf)
-- Feb 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix,  [[Recitation3 Solution]](https://2prime.github.io/files/linear/recitation3_sol.pdf)
-- Feb 23th, Review the [cheat sheet](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5) and finish recitation 3, Quiz 3 due on Sunday covers inverse matrix, LU, LDU and LDL decomposition. [[Recitation review Solution]](https://2prime.github.io/files/linear/recitation_review_sol.pdf)
-- Mar 1st, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06) Quiz 4 due on Sunday covers Vector space, Null space, rank, Row Echelon Form [[Recitation 4 Solution]](https://2prime.github.io/files/linear/recitation4_sol.pdf)
-- Mar 8st, [Recitation 5](https://nyu.app.box.com/s/byldpb26xejf3rerogowv51ea4r6s7hm) Quiz 5 due on Sunday covers Rank, Solvabilty, four fundemental subspaces [[Recitation 5 Solution]](https://2prime.github.io/files/linear/recitation5_sol.pdf)
-- March 15th and March 22nd, No Recitation.
-- Mar 29 th, [Recitation 6](https://nyu.app.box.com/s/srx3cit625rpb874l00djy0w82fvbkra) Quiz 6 due on Sunday covers Projection and Least square solution [[Recitation 6 Solution]](https://2prime.github.io/files/linear/recitation6_sol.pdf)
-- Apr 5 th, [Recitation 7](https://nyu.box.com/s/fpvkxhuoqv3yzhpmpveg95czcoi3m2q4)  Quiz 7 due on Sunday covers QR Decomposition [[Recitation 7 Solution]](https://2prime.github.io/files/linear/recitation7_sol.pdf)
-- Apr 12 th, [Recitation 8](https://nyu.box.com/s/ffdxen57e9pm0bc9jbvuq53ijmitwp42) Quiz 8 due on Sunday covers determinant and Cramer's Rule. [[Recitation 8 Solution]](https://2prime.github.io/files/linear/recitation8_sol.pdf)
-- Apr 19 th, [Recitation 9](https://nyu.box.com/s/up4tddsav0oseznz3fsficdz9rpaxr2z) Quiz 9 due on Sunday covers eigenvalue and eigenvectors. [[Recitation 9 Solution]](https://2prime.github.io/files/linear/recitation9_sol.pdf)
-- Apr 26 th, [Recitation 10](https://nyu.box.com/s/dz3t5elvkwvxjs7k4uzr9dlv8hjythst) Quzi 10 due on Sunday covers diagonalization [[Recitation 10 Solution]](https://2prime.github.io/files/linear/recitation10_sol.pdf)
-- May 3 th, [Recitation 11](https://nyu.box.com/s/byn27m85xzmwnruprr23b4b590etncej) Quzi 11 due on Sunday covers SVD, linear transform and change of basis [[Recitation 11 Solution]](https://2prime.github.io/files/linear/recitation11_sol.pdf) [[Another Example]](https://2prime.github.io/files/linear/transformpoly.pdf)
-
-  
-Exams
-======
-- Midterm (3/13) [Morning Session](https://2prime.github.io/files/linear/midterm_16.pdf) [Afternoon Session](https://2prime.github.io/files/linear/midterm_24.pdf) [Makeup Exam](https://2prime.github.io/files/linear/midterm_makeup.pdf) 
-- Final (05/10) [Morning Session](https://2prime.github.io/files/linear/linear_final.pdf) 
-
-Homework and Sample Questions
-======
-**Quizzes** Timed weekly quizzes open on Fridays by 5 pm and are due on Gradescope by midnight on Sundays. No late work is allowed on those, please plan accordingly.
-
-**Problem Sets** Please make sure you submit one question per page and match correctly on Gradescope. Using latex is recommanded but not required. Latex baseic: [link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-
-This [video](https://drive.google.com/file/d/14kDD71aLOqob6ScXUGEyFYcb7P5_kx1E/view?usp=sharing) explains how to upload to Gradescope, this [video](https://drive.google.com/file/d/1a11BB2dP9TzfbFTL05MOo20zE4UBLlLa/view?usp=sharing) shows what good and bad submissions are, and examples of good and bad scans are [here](https://drive.google.com/file/d/1iDuBj5pXcgm-BtMXZ5fhU8aewan3D3QY/view?usp=sharing).
-
-- Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://www.overleaf.com/read/tfrvpzdkhkcd#65907a) - Due by midnight on Friday 2/9, [[solution]](https://2prime.github.io/files/linear/Linear_PS1_Solutions.pdf)
-- Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://www.overleaf.com/read/hbxxxqdhfrby#852c8f) - Due by midnight on Friday 2/23, [[solution]](https://2prime.github.io/files/linear/Linear_PS2_Solutions.pdf)
-- Problem Set 3 [pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://www.overleaf.com/read/gvtyyvzvnkyz#3b9b41) - Due by midnight on Friday 3/8, [[solution]](https://2prime.github.io/files/linear/Linear_PS3_Solutions.pdf)
-- Problem Set 4 [pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://www.overleaf.com/read/hdrkjmsskbnq#2d79be) - Due by midnight on Friday 4/5, [[solution]](https://2prime.github.io/files/linear/Linear_PS4_Solutions.pdf)
-- Problem Set 5 [pdf](https://nyu.box.com/s/cbkc8abzxo8v6jcv8s14povuxildfa9d), [Latex](https://www.overleaf.com/read/rgxgrzypnrnx#a231cc) - Due by midnight on Friday 4/19, [[solution]](https://2prime.github.io/files/linear/Linear_PS5_Solutions.pdf)
-- Problem Set 6 [pdf](https://nyu.box.com/s/37o1xzvk3me22l1nkm3xe3qlxmzv0xyl), [Latex](https://www.overleaf.com/read/dkdpgqqwwyhb#2d1c8c) - Due by midnight on Friday 5/3, [[solution]](https://2prime.github.io/files/linear/Linear_PS6_Solutions.pdf)
 
 ChatGPT
 ======
