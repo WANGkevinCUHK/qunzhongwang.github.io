@@ -16,7 +16,11 @@ redirect_from:
 </center>
 
 <center>
-  <a href="https://signal-lab-northwestern.github.io/">[Lab Homepage]</a>(under construction)
+  <a href="https://signal-lab-northwestern.github.io/">[Lab Homepage]</a>
+</center>
+
+<center>
+  (under construction)
 </center>
 
 > **Advertisement**: I'm happy to hold (remote/in-person) visitors, my previous visitors are [here](https://2prime.github.io/students/). Please read [For Prospective Students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing) before emailing me. Attaching a slide/review that provides a high-level overview of potential directions for our work together is a bonus item！
