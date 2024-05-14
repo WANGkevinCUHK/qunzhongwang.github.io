@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Supervision"
+title: ""
 permalink: /students/
 author_profile: true
 redirect_from:
