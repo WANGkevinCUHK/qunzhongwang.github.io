@@ -6,9 +6,12 @@ author_profile: true
 redirect_from:
   - /students
 ---
+
 <center>
-SIGNAL LAB
-  
+<b>SIGNAL LAB</b>
+</center>
+
+<center>
 <kbd>Scientific InteGration of Numerical Analysis and Learning Lab </kbd>
 </center>
 
