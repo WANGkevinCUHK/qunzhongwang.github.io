@@ -6,7 +6,10 @@ author_profile: true
 redirect_from:
   - /students
 ---
-
+<center>
+SIGNAL LAB
+<kbd>**S**cientific **I**nte**G**ration of **N**umerical **A**nalysis and **L**earning Lab </kbd>
+</center>
 > **Advertisement**: I'm happy to hold (remote/in-person) visitors, my previous visitors are [here](https://2prime.github.io/students/). Please read [For Prospective Students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing) before emailing me. Attaching a slide/review that provides a high-level overview of potential directions for our work together is a bonus item！
 >
 > Due to the large amount of emails, I may miss some of the emails. **The best way to approach me is by filling out the [form](https://forms.gle/BaUYbUx35RL4zD3R6)**. If you want to do a summer intern, please remember to email me!
