@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <center>
-<b>SIGNAL LAB</b>
+<b>SCALE LAB</b>
 </center>
 
 <center>
-<kbd>Scientific InteGration of Numerical Analysis and Learning Lab </kbd>
+<kbd>Scientific Computing and Learning Lab </kbd>
 </center>
 
 <center>
@@ -20,8 +20,13 @@ redirect_from:
 </center>
 
 <center>
-  (under construction)
+  <font size="5">  At scale lab, we believe in the scaling law of machine learning algorithm. </font>
 </center>
+
+<center>
+    <font size="5"> We aim to scale up AI application using scientific understanding.</font>
+</center>
+
 
 > **Advertisement**: I'm happy to hold (remote/in-person) visitors, my previous visitors are [here](https://2prime.github.io/students/). Please read [For Prospective Students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing) before emailing me. Attaching a slide/review that provides a high-level overview of potential directions for our work together is a bonus item！
 >
