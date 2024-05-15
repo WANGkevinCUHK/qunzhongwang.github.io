@@ -12,7 +12,7 @@ redirect_from:
 </center>
 
 <center>
-<font size="4"><kbd>Scientific Computing and Learning Lab </kbd></font>
+<font size="5"><kbd>Scientific Computing and Learning Lab </kbd></font>
 </center>
 
 <center>
