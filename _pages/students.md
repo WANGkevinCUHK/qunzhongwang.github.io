@@ -16,7 +16,7 @@ redirect_from:
 </center>
 
 <center>
-  <a href="https://signal-lab-northwestern.github.io/">[Lab Homepage]</a>
+  <a href="https://scale-lab-northwestern.github.io/">[Lab Homepage]</a>
 </center>
 
 <center>
