@@ -20,11 +20,11 @@ redirect_from:
 </center>
 
 <center>
-  <font size="5">  At scale lab, we believe in the scaling law of machine learning algorithm. </font>
+  <font size="1">  At scale lab, we believe in the scaling law of machine learning algorithm. </font>
 </center>
 
 <center>
-    <font size="5"> We aim to scale up AI application using scientific understanding.</font>
+    <font size="1"> We aim to scale up AI application using scientific understanding.</font>
 </center>
 
 
