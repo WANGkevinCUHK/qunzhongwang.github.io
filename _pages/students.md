@@ -12,11 +12,11 @@ redirect_from:
 </center>
 
 <center>
-<kbd>Scientific Computing and Learning Lab </kbd>
+<font size="4"><kbd>Scientific Computing and Learning Lab </kbd></font>
 </center>
 
 <center>
-  <a href="https://scale-lab-northwestern.github.io/">[Lab Homepage]</a>
+ <font size="3"> <a href="https://scale-lab-northwestern.github.io/">[Lab Homepage]</a> </font>
 </center>
 
 <center>
