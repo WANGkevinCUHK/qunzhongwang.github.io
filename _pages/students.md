@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <center>
-<b>SCALE LAB</b>
+<b><font size="5">SCALE LAB</font></b>
 </center>
 
 <center>
-<font size="5"><kbd>Scientific Computing and Learning Lab </kbd></font>
+<kbd>Scientific Computing and Learning Lab </kbd>
 </center>
 
 <center>
