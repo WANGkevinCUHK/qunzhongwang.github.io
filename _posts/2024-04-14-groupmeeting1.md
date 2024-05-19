@@ -92,6 +92,7 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [The large deviation approach to statistical mechanics](https://arxiv.org/abs/0804.0327)
 - [Shifted Composition I: Harnack and Reverse Transport Inequalities](https://arxiv.org/abs/2311.14520)
 - [Geometry and analytic properties of the sliced Wasserstein space](https://arxiv.org/abs/2311.05134) (section 5)
+- [Diffusion copulas: Identification and estimation. JOE 2021.](https://arxiv.org/pdf/2005.03513)
   
 #### AI4Science
 - [Atomic cluster expansion: Completeness, efficiency and stability](https://arxiv.org/abs/1911.03550)
