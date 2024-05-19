@@ -77,7 +77,7 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [Batch and match: black-box variational inference with a score-based divergence](https://arxiv.org/abs/2402.14758)
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 - [Statistical-Computational Trade-offs in Tensor PCA and Related Problems via Communication Complexity](https://arxiv.org/abs/2204.07526)
-
+- [Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory](https://arxiv.org/abs/2405.08707)
 
 
 #### Stochastic simulation and stochastic control
