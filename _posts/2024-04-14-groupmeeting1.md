@@ -78,6 +78,7 @@ Interventions](https://arxiv.org/abs/2301.08230)
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 - [Statistical-Computational Trade-offs in Tensor PCA and Related Problems via Communication Complexity](https://arxiv.org/abs/2204.07526)
 - [Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory](https://arxiv.org/abs/2405.08707)
+- [Observational Scaling Laws and the Predictability of Language Model Performance](https://arxiv.org/abs/2405.10938)
 
 
 #### Stochastic simulation and stochastic control
