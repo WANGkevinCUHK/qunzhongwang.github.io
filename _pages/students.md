@@ -44,13 +44,13 @@ I will dedicate 30 mins every week for junior PhD/master/undergraduate students,
 ## Cooperating Undergraduate Students
 
 - 2021: [Wenlong Ji](https://scholar.google.com/citations?user=UW2Ji5MAAAAJ&hl=en) (PKU -> Stanford Statistics, neural collapse, [paper](https://arxiv.org/abs/2110.02796)), [Haoxuan Chen](https://haoxuanstevec00.github.io/) (Caltech -> Stanford ICME, minmax optimality of solving PDE, [paper](https://arxiv.org/abs/2110.06897))
-- 2022: [Jikai Jin](https://scholar.google.com/citations?user=xQqZt2AAAAAJ&hl=en) (PKU -> Stanford ICME, minmax optimality of kernel operator learning, [paper](https://arxiv.org/abs/2209.14430))
-- 2024: [Kaizhao Liu](https://drzfct.github.io/) (a fast bootstrapping method, a first author paper submitted to ICML, PKU-> ?)
-- 2025: Zexi Fan (machine learning for rare event and stochastic simulation, PKU-> ?)
+- 2022: [Jikai Jin](https://scholar.google.com/citations?user=xQqZt2AAAAAJ&hl=en) (PKU -> Stanford ICME, minmax optimality of kernel operator learning, [paper](https://arxiv.org/abs/2209.14430)) [Hounam Wong](https://openreview.net/profile?id=~Honam_Wong1) (HKUST->?, Kernel Learning, [paper submitted])
+- 2024: [Kaizhao Liu](https://drzfct.github.io/) (PKU-> ?, a fast bootstrapping method, a first author paper submitted to ICML)
+- 2026: Wendao Wu (PKU->?, Machaine Learning Theory)
+- 2026: Zexi Fan (PKU->?, machine learning for rare event and stochastic simulation)
 
-<!-- 2024: [Hounam Wong](https://openreview.net/profile?id=~Honam_Wong1) (HKUST->?, Kernel Learning), Ruihan Xu(SJTU->?, Sketching), Siyuan Tang (Fine-Tuning Language Model, USTC->?, co-supervised with [Minshuo Chen](https://minshuochen.github.io/)), Yawen Liu (Machine learning for control, co-supervised with Nian Si)-->
+<!-- 2024: , Ruihan Xu(SJTU->?, Sketching), Siyuan Tang (Fine-Tuning Language Model, USTC->?, co-supervised with [Minshuo Chen](https://minshuochen.github.io/))-->
 
-<!--2025: Wendao Wu-->
 
 <br> 
 <br> 
