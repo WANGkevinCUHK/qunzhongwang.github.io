@@ -6,6 +6,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+#boxshadow {
+    border: 4px solid purple;
+    box-shadow: 5px 6px gray;
+    border-radius: 2mm;
+    background-color: white;
+}
+
+.half_highlight {
+background: linear-gradient(to top, #F9E79F  50%, transparent 50%);
+}
+
+#boxshadow2 {
+    border: 4px solid IndianRed;
+    box-shadow: 5px 6px gray;
+    border-radius: 2mm;
+    background-color: white;
+}
+</style>
+
+<div id="boxshadow2">
+<center style="color: gray; font-size: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+My lab <a href="https://scale-lab-northwestern.github.io/">Homepage</a> is online! You can see more information there.
+ </center>
+</div>
+
+
 
 I am a Courant instructor at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, and an incoming tenure-track assistant professor at  [Industrial Engineering & Management Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University. I received my Ph.D. degree in applied math from Stanford University in 2023 and my Bachelor’s degree in applied math from Peking University in 2019. The long-term goal of Yiping's research is to develop a hybrid scientific research discipline that combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, Yiping and his group are working on an interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem, and operations research. Yiping is among the first to work at the interface of deep learning and differential equation. Yiping was a recipient of the Conference on Parsimony and Learning (CPAL) Rising Star Award in 2024, the Rising Star in Data Science from the University of Chicago in 2022, the Stanford Interdisciplinary Graduate Fellowship and the SenseTime Scholarship in 2021 for undergraduates in AI in 2019. Yiping also served as Area Chair for top machine learning conference such as Neurips and AISTATS.
 
