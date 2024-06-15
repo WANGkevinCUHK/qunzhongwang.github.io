@@ -11,7 +11,7 @@ I just list selected publication here. For a full list, you can view on <u><a hr
 
 ### Selected Publication
 
-- **Yiping Lu**, Daozhe Lin, Qiang Du. [Which space can be embeded into Lp Reproducing Kernel Banach Space?](https://2prime.github.io/files/EmbeddingRKBS_preprint.pdf) *submitted*, 2024.
+- **Yiping Lu**, Daozhe Lin, Qiang Du. [Which space can be embeded into Lp Reproducing Kernel Banach Space? A Characterization via Metric Entropy](https://2prime.github.io/files/EmbeddingRKBS_preprint.pdf) *submitted*, 2024.
 - **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. [Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls](https://arxiv.org/pdf/2211.15241),  40th Conference on Uncertainty in Artificial Intelligence (UAI 2024) <font color='red'>[Oral]</font>.  
 - Haotian Ye, Ruichen Li, Yuntian Gu, **Yiping Lu**, Di He, Liwei Wang. [$O(N^2)$ Representation of General Continuous Anti-symmetric Function](https://arxiv.org/abs/2402.15167), *submitted*, 2024.
 - Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=tMzPZTvz2H), International Conference on Learning Representations(ICLR) 2024, <font color='red'>[Spotlight]</font>
