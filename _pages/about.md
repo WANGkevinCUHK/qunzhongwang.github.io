@@ -58,8 +58,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 **Contact**: yiping [dot] lu [at] northwestern [dot] edu, yiping [dot] lu [at] nyu dot edu 
 
-**Office**: Office 0926, Warren Weaver Hall (CIWW), 251 Mercer St, New York, NY 10012
-
+**Office**: 2145 Sheridan Road Technological Institute, M237, Evanston, IL 60208
 
 **<font color='red'>[*New*]</font> ** AAAI 2024 Tutorial: Recent advance in Physics-informed Machine Learning  [website](https://sites.google.com/view/aaai-2024-tutorial-piml/) [slide](https://2prime.github.io/files/SML/piml_aaai.pdf)
 
