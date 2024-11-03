@@ -48,6 +48,8 @@ Syllabus
 
 - **Lecture 3**:
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
+  - Advanced Reading:
+    - Xing Y, Song Q, Cheng G. [Benefit of interpolation in nearest neighbor algorithms](https://arxiv.org/abs/2202.11817). SIAM Journal on Mathematics of Data Science, 2022, 4(2): 935-956.
 - **Lecture 4**: <font color=red>Concept</font>
   - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
   - Deisgn of Loss function: Max Likelihood, Surrogate Loss
@@ -75,6 +77,9 @@ Syllabus
   - Generalization via Uniform Bound
 - **Lecture 10**:
   - Symmetrization
+  - Advanced Reading:
+    - Kur G, Putterman E, Rakhlin A. [On the variance, admissibility, and stability of empirical risk minimization](https://arxiv.org/abs/2305.18508). Advances in Neural Information Processing Systems, 2024, 36.
+    - Kur, Gil, et al. [Minimum Norm Interpolation Meets The Local Theory of Banach Spaces](https://openreview.net/forum?id=G4b32bKnBy). Forty-first International Conference on Machine Learning.
 
 <font color=red>[Homework 5 DUE]</font>
 ### Homework
