@@ -28,7 +28,7 @@ Syllabus
 
 
 ### Scheldue
-- **Lecture 1-2**:
+- **Lecture 1-2**: <font color=red>Concept<font>
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
   - Degree of Freedom.
   - Why the success of Deep Learning is a mystery.
@@ -47,8 +47,9 @@ Syllabus
 
 - **Lecture 3**:
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
-- **Lecture 4**:
-  - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI 
+- **Lecture 4**: <font color=red>Concept<font>
+  - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
+  - Deisgn of Loss function: Max Likelihood, Surrogate Loss
 - **Lecture 4**:
   - Asymptotic normality, (Implicit) Delta Method
 - **Lecture 5**:
