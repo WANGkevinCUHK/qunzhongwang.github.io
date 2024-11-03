@@ -44,25 +44,32 @@ Syllabus
     - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/abs/2409.15156) L Xiao arXiv preprint arXiv:2409.15156
     - <font color=red>(Required)</font> Mallinar N, Simon J, Abedsoltan A, et al. [Benign, tempered, or catastrophic: Toward a refined taxonomy of overfitting](https://proceedings.neurips.cc/paper_files/paper/2022/hash/08342dc6ab69f23167b4123086ad4d38-Abstract-Conference.html). Advances in Neural Information Processing Systems, 2022, 35: 1182-1195.
 
-<font color=red>Homework 1 DUE</font>
+<font color=red>[Homework 1 DUE]</font>
 
 - **Lecture 3**:
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
 - **Lecture 4**: <font color=red>Concept</font>
   - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
   - Deisgn of Loss function: Max Likelihood, Surrogate Loss
-- **Lecture 4**:
-  - Asymptotic normality, (Implicit) Delta Method
+<font color=red>[Homework 2 DUE]</font>
 - **Lecture 5**:
+  - Asymptotic normality, (Implicit) Delta Method
+- **Lecture 6**:
   - Influnce function
   - Sugessted Reading:
     - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
     - Basu S, Pope P, Feizi S. [Influence functions in deep learning are fragile](https://arxiv.org/abs/2006.14651).
-- **Lecture 6**:
-  - Concerntration Inequality
+<font color=red>[Homework 3 DUE]</font>
 - **Lecture 7**:
-  - Generalization via Uniform Bound
+  - Application of Asymptotic Theory
 - **Lecture 8**:
+  - Concerntration Inequality
+<font color=red>[Homework 4 DUE]</font>
+- **Lecture 9**:
+  - Generalization via Uniform Bound
+- **Lecture 10**:
+  - Symmetrization
+<font color=red>[Homework 5 DUE]</font>
 ### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
 - [[Homework 2]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework2.pdf): Bias and Variance Trade-off 1: Kernel Smoothing
