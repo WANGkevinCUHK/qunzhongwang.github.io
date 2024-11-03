@@ -15,7 +15,7 @@ Required graduate course on mathematical foundations of data science.
 #### Objectives:
 This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws of deep learning, generative AI, and language models.
 
-
+**ChatGPT Tutor:** The link here provides a Large Language Model agents that is specifically trained for this course.
 
 #### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
