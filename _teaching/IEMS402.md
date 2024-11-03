@@ -30,7 +30,11 @@ Syllabus
 ### Scheldue
 - **Lecture 1**:
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
+  - Degree of Freedom.
   - Why the success of Deep Learning is a mystery.
+    - Curse of Dimensioanality for approximation
+    - Benigning Overfitting
+    - Non-convexity of Optimization Landscape
   - Sugessted Reading:
     - Zhang C, Bengio S, Hardt M, et al. [Understanding deep learning (still) requires rethinking generalization](https://dl.acm.org/doi/10.1145/3446776). Communications of the ACM, 2021, 64(3): 107-115.
     - Kaplan J, McCandlish S, Henighan T, et al. [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). arXiv preprint arXiv:2001.08361, 2020.
