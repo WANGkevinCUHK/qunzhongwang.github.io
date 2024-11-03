@@ -62,18 +62,19 @@ Syllabus
 
 <font color=red>[Homework 2 DUE]</font>
 
-- **Lecture 5**: 1.20
-  - Asymptotic normality, (Implicit) Delta Method
+- **Lecture 5**: 1.20 <font color=red>[No Class]</font> (Martin Luther King Jr. Day)
 - **Lecture 6**: 1.22
+   - Asymptotic normality, (Implicit) Delta Method
+
+<font color=red>[Homework 3 DUE]</font>
+
+- **Lecture 7**: 1.27
   - Influnce function
   - Sugessted Reading:
     - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
     - Basu S, Pope P, Feizi S. [Influence functions in deep learning are fragile](https://arxiv.org/abs/2006.14651).
 
-<font color=red>[Homework 3 DUE]</font>
 
-- **Lecture 7**: 1.27
-  - Application of Asymptotic Theory
 - **Lecture 8**: 1.29
   - Concerntration Inequality
   - Application of Concerntration Inequality: Johnson-Lindenstrauss lemma
@@ -81,19 +82,25 @@ Syllabus
 <font color=red>[Homework 4 DUE]</font>
 
 - **Lecture 9**: 2.3
-  - Generalization via Uniform Bound
+  - Generalization via Uniform Bound, Covering Number
 - **Lecture 10**: 2.5
-  - Symmetrization
+  - Symmetrization, Rademacher complexity
   - Advanced Reading:
     - Kur G, Putterman E, Rakhlin A. [On the variance, admissibility, and stability of empirical risk minimization](https://arxiv.org/abs/2305.18508). Advances in Neural Information Processing Systems, 2024, 36.
     - Kur, Gil, et al. [Minimum Norm Interpolation Meets The Local Theory of Banach Spaces](https://openreview.net/forum?id=G4b32bKnBy). Forty-first International Conference on Machine Learning.
 
 <font color=red>[Homework 5 DUE]</font>
 
-- **Lecture 11**: 2.10
-  - Generalization via Uniform Bound
+- **Lecture 11**: 2.10 <font color=red>[Advanced Topic]</font>
+  - Generalization Theory of Neural Network [[Textbook](https://mjt.cs.illinois.edu/dlt/#two-rademacher-complexity-proofs-for-deep-networks)]
+  - Suggested Reading:
+    - Bartlett, P.L., 1998. The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network. IEEE transactions on Information Theory, 44(2), pp.525-536
+    - Bartlett, P.L., Foster, D.J. and Telgarsky, M., 2017, December. [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/abs/1706.08498). In Proceedings of the 31st International Conference on Neural Information Processing Systems (pp. 6241-6250)
+    - Jiang Y, Neyshabur B, Mobahi H, et al. [Fantastic generalization measures and where to find them](https://arxiv.org/abs/1912.02178). arXiv preprint arXiv:1912.02178, 2019.
+    - Jiang Y, Nagarajan V, Baek C, et al. [Assessing generalization of SGD via disagreement](https://arxiv.org/abs/2106.13799). arXiv preprint arXiv:2106.13799, 2021.
 - **Lecture 12**: <font color=red>[Midterm]</font> 2.12
- 
+ - **Lecture 13**: 2.17
+  - Dudley's theorem
 
 
 ### Homework
