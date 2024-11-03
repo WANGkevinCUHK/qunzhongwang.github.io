@@ -14,7 +14,7 @@ Required graduate course on mathematical foundations of data science. **Syllabus
 
 Objectives:
 ======
-This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws of deep learning, generative AI, and language models. (e.g. Neural Tagent Kernel, Mean-Field Limit of Neural Network and In-context Learning)
+This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws/benign overfitting of deep learning, generative AI, and language models. (e.g. Neural Tagent Kernel, Mean-Field Limit of Neural Network and In-context Learning)
 
 **ChatGPT Tutor:** The link here provides a Large Language Model agents that is specifically trained for this course.
 
@@ -50,6 +50,7 @@ Syllabus
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
   - Advanced Reading:
     - Xing Y, Song Q, Cheng G. [Benefit of interpolation in nearest neighbor algorithms](https://arxiv.org/abs/2202.11817). SIAM Journal on Mathematics of Data Science, 2022, 4(2): 935-956.
+    - Chhor J, Sigalla S, Tsybakov A B. [Benign overfitting and adaptive nonparametric regression](https://link.springer.com/article/10.1007/s00440-024-01278-0). Probability Theory and Related Fields, 2024: 1-32.
 - **Lecture 4**: <font color=red>Concept</font>
   - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
   - Deisgn of Loss function: Max Likelihood, Surrogate Loss
