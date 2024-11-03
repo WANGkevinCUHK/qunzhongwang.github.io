@@ -51,7 +51,9 @@ Syllabus
 - **Lecture 4**: <font color=red>Concept</font>
   - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
   - Deisgn of Loss function: Max Likelihood, Surrogate Loss
+
 <font color=red>[Homework 2 DUE]</font>
+
 - **Lecture 5**:
   - Asymptotic normality, (Implicit) Delta Method
 - **Lecture 6**:
@@ -59,16 +61,21 @@ Syllabus
   - Sugessted Reading:
     - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
     - Basu S, Pope P, Feizi S. [Influence functions in deep learning are fragile](https://arxiv.org/abs/2006.14651).
+
 <font color=red>[Homework 3 DUE]</font>
+
 - **Lecture 7**:
   - Application of Asymptotic Theory
 - **Lecture 8**:
   - Concerntration Inequality
+
 <font color=red>[Homework 4 DUE]</font>
+
 - **Lecture 9**:
   - Generalization via Uniform Bound
 - **Lecture 10**:
   - Symmetrization
+
 <font color=red>[Homework 5 DUE]</font>
 ### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
