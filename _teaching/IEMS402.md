@@ -93,6 +93,8 @@ Syllabus
 
 - **Lecture 11**: 2.10 <font color=red>[Advanced Topic]</font>
   - Generalization Theory of Neural Network [[Textbook](https://mjt.cs.illinois.edu/dlt/#two-rademacher-complexity-proofs-for-deep-networks)]
+  - Other Ideas of Generalization:
+    - PAC-Bayes, Algorithm Stability, ... 
   - Suggested Reading:
     - Bartlett, P.L., 1998. The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network. IEEE transactions on Information Theory, 44(2), pp.525-536
     - Bartlett, P.L., Foster, D.J. and Telgarsky, M., 2017, December. [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/abs/1706.08498). In Proceedings of the 31st International Conference on Neural Information Processing Systems (pp. 6241-6250)
