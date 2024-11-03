@@ -37,7 +37,7 @@ Syllabus
   - Why the success of Deep Learning is a mystery.
     - Curse of Dimensioanality for approximation
     - Benigning Overfitting
-    - Non-convexity of Optimization Landscape
+    - Non-convexity of Optimization Landscape, Selection of Multiple Minimum
     - Distrbution Mismatch
   - Sugessted Reading:
     - Zhang C, Bengio S, Hardt M, et al. [Understanding deep learning (still) requires rethinking generalization](https://dl.acm.org/doi/10.1145/3446776). Communications of the ACM, 2021, 64(3): 107-115.
@@ -46,6 +46,8 @@ Syllabus
     - Curth A, Jeffares A, van der Schaar M. [A U-turn on double descent: Rethinking parameter counting in statistical learning](https://arxiv.org/abs/2310.18988). Advances in Neural Information Processing Systems, 2024, 36.
     - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/abs/2409.15156) L Xiao arXiv preprint arXiv:2409.15156
     - <font color=red>(Required)</font> Mallinar N, Simon J, Abedsoltan A, et al. [Benign, tempered, or catastrophic: Toward a refined taxonomy of overfitting](https://proceedings.neurips.cc/paper_files/paper/2022/hash/08342dc6ab69f23167b4123086ad4d38-Abstract-Conference.html). Advances in Neural Information Processing Systems, 2022, 35: 1182-1195.
+    - Li H, Xu Z, Taylor G, et al. [Visualizing the loss landscape of neural nets](https://proceedings.neurips.cc/paper/2018/hash/a41b3bb3e6b050b6c9067c67f663b915-Abstract.html). Advances in neural information processing systems, 2018, 31.
+    - Keskar N S, Mudigere D, Nocedal J, et al. [On large-batch training for deep learning: Generalization gap and sharp minima](https://arxiv.org/abs/1609.04836). arXiv preprint arXiv:1609.04836, 2016.
 
 <font color=red>[Homework 1 DUE]</font>
 
