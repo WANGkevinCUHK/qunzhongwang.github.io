@@ -102,6 +102,7 @@ Syllabus
     - Jiang Y, Nagarajan V, Baek C, et al. [Assessing generalization of SGD via disagreement](https://arxiv.org/abs/2106.13799). arXiv preprint arXiv:2106.13799, 2021.
 - **Lecture 12**: <font color=red>[Midterm]</font> 2.12
 - **Lecture 13**: 2.17
+  - Ledoux-Talagrand Contraction Principle
   - Dudley's theorem
 
 
