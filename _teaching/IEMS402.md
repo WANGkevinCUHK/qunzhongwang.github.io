@@ -43,6 +43,7 @@ Syllabus
     - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/abs/2409.15156) L Xiao arXiv preprint arXiv:2409.15156
 - **Lecture 2**:
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
+<a color="red">Homework 1 DUE</a>
 - **Lecture 3**:
   - Asymptotic normality, (Implicit) Delta Method
 - **Lecture 4**:
