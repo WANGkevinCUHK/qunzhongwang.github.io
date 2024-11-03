@@ -140,6 +140,8 @@ Syllabus
     - Song Y, Sohl-Dickstein J, Kingma D P, et al. [Score-based generative modeling through stochastic differential equations](https://arxiv.org/abs/2011.13456). arXiv preprint arXiv:2011.13456, 2020.
     - Lipman Y, Chen R T Q, Ben-Hamu H, et al. [Flow matching for generative modeling](https://arxiv.org/abs/2210.02747). arXiv preprint arXiv:2210.02747, 2022.
     - Albergo M S, Boffi N M, Vanden-Eijnden E. [Stochastic interpolants: A unifying framework for flows and diffusions](https://arxiv.org/abs/2303.08797). arXiv preprint arXiv:2303.08797, 2023.
+
+
 <font color=red>[Homework 8 DUE]</font>
 
 - **Lecture 17**: 3.10
