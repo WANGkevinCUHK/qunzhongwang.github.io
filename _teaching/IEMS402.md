@@ -101,7 +101,7 @@ Syllabus
     - Jiang Y, Neyshabur B, Mobahi H, et al. [Fantastic generalization measures and where to find them](https://arxiv.org/abs/1912.02178). arXiv preprint arXiv:1912.02178, 2019.
     - Jiang Y, Nagarajan V, Baek C, et al. [Assessing generalization of SGD via disagreement](https://arxiv.org/abs/2106.13799). arXiv preprint arXiv:2106.13799, 2021.
 - **Lecture 12**: <font color=red>[Midterm]</font> 2.12
- - **Lecture 13**: 2.17
+- **Lecture 13**: 2.17
   - Dudley's theorem
 
 
