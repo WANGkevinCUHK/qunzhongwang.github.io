@@ -133,6 +133,7 @@ Syllabus
 
 - **Lecture 15**: 3.3 <font color=red>[Advanced Topic]</font>
   - Optimal Transport, Kantorovich Duality
+  - Statistics of Optimal Transport and Smoothed Optimal Transport
   - Suggested Reading (Optimal Transport):
     - *<font color=red>(Textbook)</font>* [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
     - *<font color=red>(Central Limit Theorem)</font>* Goldfeld Z, Greenewald K. [Gaussian-smoothed optimal transport: Metric structure and statistical efficiency] International Conference on Artificial Intelligence and Statistics. PMLR, 2020: 3327-3337.
