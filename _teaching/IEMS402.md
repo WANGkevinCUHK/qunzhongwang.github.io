@@ -85,8 +85,8 @@ Syllabus
 <font color=red>[Homework 5 DUE]</font>
 ### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
-- [[Homework 2]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework2.pdf): Bias and Variance Trade-off 1: Kernel Smoothing
-- [[Homework 3]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework3.pdf): Bias and Variance Trade-off 2: Overparameterization
+- [[Homework 2]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework2.pdf): Bias and Variance Trade-off 1: Overparameterization
+- [[Homework 3]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework3.pdf): Bias and Variance Trade-off 2: Kernel Smoothing
 - [[Homework 4]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework4.pdf): Asymptotic Theory 1
 - [[Homework 5]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework5.pdf): Asymptotic Theory 2 and Concentration Inequality
 - [[Homework 6]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework6.pdf): Generalization Error
