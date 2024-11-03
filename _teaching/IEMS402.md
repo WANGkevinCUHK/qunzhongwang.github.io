@@ -188,7 +188,7 @@ Syllabus
 
 ### Exams
 - [[Practice Mid-Term Exam]](https://2prime.github.io/files/IEMS402/practicemidterm_IEMS402.pdf)
-- [[Practice Final Exam]]()
+- [[Practice Final Exam]](https://2prime.github.io/files/IEMS402/practicefinal_IEMS402.pdf)
 
 ### Other Reading
 - [[Argmin Blog]](https://www.argmin.net/archive?sort=new)
