@@ -13,7 +13,7 @@ Required graduate course on mathematical foundations of data science. **Syllabus
 
 
 #### Objectives:
-This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws of deep learning, generative AI, and language models.
+This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws of deep learning, generative AI, and language models. (e.g. Neural Tagent Kernel, Mean-Field Limit of Neural Network and In-context Learning)
 
 **ChatGPT Tutor:** The link here provides a Large Language Model agents that is specifically trained for this course.
 
@@ -21,6 +21,12 @@ If you have a question, to get a response from the teaching staff quickly we str
 
 Syllabus
 ======
+#### Text Book
+- [[Learning Theory from First Principles]](https://www.di.ens.fr/~fbach/ltfp_book.pdf ) Francis Bach [LTFP]
+- [[Asymptotic Statistics]](https://www.cambridge.org/core/books/asymptotic-statistics/A3C7DAD3F7E66A1FA60E9C8FE132EE1D) A. W. van der Vaart [AS]
+
+
+#### Scheldue
 - **Lecture 1**: 
 
 #### Homework
