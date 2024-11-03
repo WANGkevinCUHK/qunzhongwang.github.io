@@ -44,7 +44,7 @@ Syllabus
 - **Lecture 2**:
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
   
-<a color="red">Homework 1 DUE</a>
+<font color=red>Homework 1 DUE<font>
 
 - **Lecture 3**:
   - Asymptotic normality, (Implicit) Delta Method
