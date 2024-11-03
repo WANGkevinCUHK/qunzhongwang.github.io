@@ -30,6 +30,9 @@ Syllabus
 ### Scheldue
 - **Lecture 1-2**: <font color=red>Concept</font>
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
+  - Difference between IEMS402 (Statistical Learning) and IEMS401 (Applied Statistics)
+    - Loss convergence V.S. Parameter Recover
+    - Non-parametric V.S. Parametric
   - Degree of Freedom.
   - Why the success of Deep Learning is a mystery.
     - Curse of Dimensioanality for approximation
