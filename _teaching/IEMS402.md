@@ -188,7 +188,11 @@ Syllabus
 
 ### Exams
 - [[Practice Mid-Term Exam]](https://2prime.github.io/files/IEMS402/practicemidterm_IEMS402.pdf)
+  - Modern Machine Learning Concepts, Bias and Variance Trade-off
+  - Kernel Smoothing, Asymptotic Theory, Influnce Function Concentration Inequality, Uniform Bound
 - [[Practice Final Exam]](https://2prime.github.io/files/IEMS402/practicefinal_IEMS402.pdf)
+  - Rademacher complexity, Covering Number, Dudley's theorem
+  - RKHS, Optimal Transport, Robust Learning
 
 ### Other Reading
 - [[Argmin Blog]](https://www.argmin.net/archive?sort=new)
