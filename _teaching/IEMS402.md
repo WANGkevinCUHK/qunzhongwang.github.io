@@ -102,7 +102,7 @@ Syllabus
 
 ### Other Reading
 - [[Argmin Blog]](https://www.argmin.net/archive?sort=new)
-- [[Francis Blog's]](https://francisbach.com/)
+- [[Francis Bach's Blog]](https://francisbach.com/)
 
 General Policies
 ======
