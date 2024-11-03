@@ -31,9 +31,21 @@ Syllabus
 - **Lecture 1**:
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
   - Why the success of Deep Learning is a mystery.
+  - Sugessted Reading:
+    - Zhang C, Bengio S, Hardt M, et al. [Understanding deep learning (still) requires rethinking generalization](https://dl.acm.org/doi/10.1145/3446776). Communications of the ACM, 2021, 64(3): 107-115.
+    - Kaplan J, McCandlish S, Henighan T, et al. [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). arXiv preprint arXiv:2001.08361, 2020.
+    - Nakkiran P, Kaplun G, Bansal Y, et al. [Deep double descent: Where bigger models and more data hurt](https://arxiv.org/abs/1912.02292). Journal of Statistical Mechanics: Theory and Experiment, 2021, 2021(12): 124003.
+    - Curth A, Jeffares A, van der Schaar M. [A U-turn on double descent: Rethinking parameter counting in statistical learning](https://arxiv.org/abs/2310.18988). Advances in Neural Information Processing Systems, 2024, 36.
+    - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/abs/2409.15156) L Xiao arXiv preprint arXiv:2409.15156
 - **Lecture 2**:
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
 - **Lecture 3**:
+  - Asymptotic normality, (Implicit) Delta Method
+- **Lecture 4**:
+  - Influnce function
+  - Sugessted Reading:
+    - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
+    - Basu S, Pope P, Feizi S. [Influence functions in deep learning are fragile](https://arxiv.org/abs/2006.14651).
 
 ### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
