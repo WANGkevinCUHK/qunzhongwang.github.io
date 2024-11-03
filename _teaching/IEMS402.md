@@ -42,6 +42,7 @@ Syllabus
     - Nakkiran P, Kaplun G, Bansal Y, et al. [Deep double descent: Where bigger models and more data hurt](https://arxiv.org/abs/1912.02292). Journal of Statistical Mechanics: Theory and Experiment, 2021, 2021(12): 124003.
     - Curth A, Jeffares A, van der Schaar M. [A U-turn on double descent: Rethinking parameter counting in statistical learning](https://arxiv.org/abs/2310.18988). Advances in Neural Information Processing Systems, 2024, 36.
     - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/abs/2409.15156) L Xiao arXiv preprint arXiv:2409.15156
+    - Mallinar N, Simon J, Abedsoltan A, et al. [Benign, tempered, or catastrophic: Toward a refined taxonomy of overfitting](https://proceedings.neurips.cc/paper_files/paper/2022/hash/08342dc6ab69f23167b4123086ad4d38-Abstract-Conference.html). Advances in Neural Information Processing Systems, 2022, 35: 1182-1195.
 
 <font color=red>Homework 1 DUE<font>
 
