@@ -40,7 +40,8 @@ Syllabus
 - [[Homework 8]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework8.pdf): RKHS and Robust Learning
 
 #### Exams
-- [[Practice Exam]]()
+- [[Practice Mid-Term Exam]]()
+- [[Practice Final Exam]]()
 
 General Policies
 ======
