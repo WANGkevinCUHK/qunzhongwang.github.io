@@ -166,6 +166,8 @@ Syllabus
   - Advanced Reading:
     - Chizat L, Bach F. [On the global convergence of gradient descent for over-parameterized models using optimal transport](https://arxiv.org/abs/1805.09545). Advances in neural information processing systems, 2018, 31.
     - Yang G, Hu E J, Babuschkin I, et al. [Tensor programs v: Tuning large neural networks via zero-shot hyperparameter transfer](https://arxiv.org/abs/2203.03466). arXiv preprint arXiv:2203.03466, 2022.
+      - Hayou S, Ghosh N, Yu B. Lora+: Efficient low rank adaptation of large models. arXiv preprint arXiv:2402.12354, 2024.
+      - Ishikawa S, Karakida R. On the Parameterization of Second-Order Optimization Effective Towards the Infinite Width. arXiv preprint arXiv:2312.12226, 2023.
 
 - **Lecture 18**: 3.12 <font color=red>[Advanced Topic]</font>
   - Implicit Bias ([LTFP] Section 12.1)
