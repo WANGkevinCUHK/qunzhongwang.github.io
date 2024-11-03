@@ -119,6 +119,8 @@ Syllabus
 - **Lecture 15**: 2.26
   - Distrbution Shift
   - Distributionally Robust Optimization
+  - Suggested Reading:
+    - [Toward a inductive modeling language for distribution shifts](https://hsnamkoong.github.io/assets/pdf/LiuWaCuNa24-slides.pdf)
 
 <font color=red>[Homework 7 DUE]</font>
 
