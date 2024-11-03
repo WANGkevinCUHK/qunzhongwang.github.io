@@ -125,9 +125,10 @@ Syllabus
 - **Lecture 15**: 3.3 <font color=red>[Advanced Topic]</font>
   - Optimal Transport, Kantorovich Duality
   - Suggested Reading (Optimal Transport):
-    - (Central Limit Theorem) Goldfeld Z, Greenewald K. [Gaussian-smoothed optimal transport: Metric structure and statistical efficiency] International Conference on Artificial Intelligence and Statistics. PMLR, 2020: 3327-3337.
-    - Si N, Blanchet J, Ghosh S, et al. [Quantifying the empirical Wasserstein distance to a set of measures: Beating the curse of dimensionality](https://proceedings.neurips.cc/paper/2020/hash/f3507289cfdc8c9ae93f4098111a13f9-Abstract.html). Advances in Neural Information Processing Systems, 2020, 33: 21260-21270.
-    - Li J, Tang J, Kong L, et al. [A convergent single-loop algorithm for relaxation of gromov-wasserstein in graph data](https://arxiv.org/abs/2303.06595). arXiv preprint arXiv:2303.
+    - <font color=red>(Textbook)</font> [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
+    - <font color=red>(Central Limit Theorem)</font> Goldfeld Z, Greenewald K. [Gaussian-smoothed optimal transport: Metric structure and statistical efficiency] International Conference on Artificial Intelligence and Statistics. PMLR, 2020: 3327-3337.
+    - <font color=red>(Central Limit Theorem)</font> Si N, Blanchet J, Ghosh S, et al. [Quantifying the empirical Wasserstein distance to a set of measures: Beating the curse of dimensionality](https://proceedings.neurips.cc/paper/2020/hash/f3507289cfdc8c9ae93f4098111a13f9-Abstract.html). Advances in Neural Information Processing Systems, 2020, 33: 21260-21270.
+    - <font color=red>(Optimization)</font> Li J, Tang J, Kong L, et al. [A convergent single-loop algorithm for relaxation of gromov-wasserstein in graph data](https://arxiv.org/abs/2303.06595). arXiv preprint arXiv:2303.
 
 - **Lecture 16**: 3.5 <font color=red>[Advanced Topic]</font>
   - Sampling via Wasserstein Gradient Flow
