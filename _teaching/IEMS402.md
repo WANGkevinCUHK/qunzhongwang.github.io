@@ -117,10 +117,17 @@ Syllabus
     - Schölpple M, Steinwart I. [Which Spaces can be Embedded in Reproducing Kernel Hilbert Spaces?](https://arxiv.org/abs/2312.14711) arXiv preprint arXiv:2312.14711, 2023.
     - Lu Y, Lin D, Du Q. [Which Spaces can be Embedded in Lp-type Reproducing Kernel Banach Space? A Characterization via Metric Entropy](https://arxiv.org/abs/2410.11116). arXiv preprint arXiv:2410.11116, 2024.
 - **Lecture 15**: 2.26
-  - Distrbution Shift
+  - Distrbution Shift ([Stanford CS329D Machine Learning Under Distribution Shift](https://thashim.github.io/cs329D/))
   - Distributionally Robust Optimization
   - Suggested Reading:
     - [Toward a inductive modeling language for distribution shifts](https://hsnamkoong.github.io/assets/pdf/LiuWaCuNa24-slides.pdf)
+    - Geirhos R, Jacobsen J H, Michaelis C, et al. Shortcut learning in deep neural networks. Nature Machine Intelligence, 2020, 2(11): 665-673.
+    - Sagawa S, Koh P W, Hashimoto T B, et al. Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization.
+  - Suggested Reading:
+    - Duchi J, Namkoong H. Variance-based regularization with convex objectives. Journal of Machine Learning Research, 2019, 20(68): 1-55. (Neurips 2017 Best paper)
+    - Duchi J C, Namkoong H. Learning models with uniform performance via distributionally robust optimization. The Annals of Statistics, 2021, 49(3): 1378-1406.
+    - Hu W, Niu G, Sato I, et al. Does distributionally robust supervised learning give robust classifiers? International Conference on Machine Learning. PMLR, 2018: 2029-2037.
+
 
 <font color=red>[Homework 7 DUE]</font>
 
