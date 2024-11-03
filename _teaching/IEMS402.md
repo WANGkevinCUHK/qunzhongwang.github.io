@@ -28,7 +28,7 @@ Syllabus
 
 
 ### Scheldue
-- **Lecture 1-2**: <font color=red>Concept</font>
+- **Lecture 1-2**: <font color=red>Concept</font> 1.6/1.8
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
   - Difference between IEMS402 (Statistical Learning) and IEMS401 (Applied Statistics)
     - Loss convergence V.S. Parameter Recover
@@ -51,20 +51,20 @@ Syllabus
 
 <font color=red>[Homework 1 DUE]</font>
 
-- **Lecture 3**:
+- **Lecture 3**: 1.13
   - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
   - Advanced Reading:
     - Xing Y, Song Q, Cheng G. [Benefit of interpolation in nearest neighbor algorithms](https://arxiv.org/abs/2202.11817). SIAM Journal on Mathematics of Data Science, 2022, 4(2): 935-956.
     - Chhor J, Sigalla S, Tsybakov A B. [Benign overfitting and adaptive nonparametric regression](https://link.springer.com/article/10.1007/s00440-024-01278-0). Probability Theory and Related Fields, 2024: 1-32.
-- **Lecture 4**: <font color=red>Concept</font>
+- **Lecture 4**: <font color=red>Concept</font> 1.15
   - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
   - Deisgn of Loss function: Max Likelihood, Surrogate Loss
 
 <font color=red>[Homework 2 DUE]</font>
 
-- **Lecture 5**:
+- **Lecture 5**: 1.20
   - Asymptotic normality, (Implicit) Delta Method
-- **Lecture 6**:
+- **Lecture 6**: 1.22
   - Influnce function
   - Sugessted Reading:
     - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
@@ -72,22 +72,30 @@ Syllabus
 
 <font color=red>[Homework 3 DUE]</font>
 
-- **Lecture 7**:
+- **Lecture 7**: 1.27
   - Application of Asymptotic Theory
-- **Lecture 8**:
+- **Lecture 8**: 1.29
   - Concerntration Inequality
+  - Application of Concerntration Inequality: Johnson-Lindenstrauss lemma
 
 <font color=red>[Homework 4 DUE]</font>
 
-- **Lecture 9**:
+- **Lecture 9**: 2.3
   - Generalization via Uniform Bound
-- **Lecture 10**:
+- **Lecture 10**: 2.5
   - Symmetrization
   - Advanced Reading:
     - Kur G, Putterman E, Rakhlin A. [On the variance, admissibility, and stability of empirical risk minimization](https://arxiv.org/abs/2305.18508). Advances in Neural Information Processing Systems, 2024, 36.
     - Kur, Gil, et al. [Minimum Norm Interpolation Meets The Local Theory of Banach Spaces](https://openreview.net/forum?id=G4b32bKnBy). Forty-first International Conference on Machine Learning.
 
 <font color=red>[Homework 5 DUE]</font>
+
+- **Lecture 11**: 2.10
+  - Generalization via Uniform Bound
+- **Lecture 12**: <font color=red>[Midterm]</font> 2.12
+ 
+
+
 ### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
 - [[Homework 2]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework2.pdf): Bias and Variance Trade-off 1: Overparameterization
