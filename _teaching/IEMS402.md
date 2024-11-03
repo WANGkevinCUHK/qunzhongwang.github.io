@@ -141,7 +141,7 @@ Syllabus
     -  Chizat L, Oyallon E, Bach F. [On lazy training in differentiable programming](https://arxiv.org/abs/1812.07956). Advances in neural information processing systems, 2019, 32.
   - Advanced Reading:
     - Chizat L, Bach F. [On the global convergence of gradient descent for over-parameterized models using optimal transport](https://arxiv.org/abs/1805.09545). Advances in neural information processing systems, 2018, 31.
-    - 
+    - Yang G, Hu E J, Babuschkin I, et al. [Tensor programs v: Tuning large neural networks via zero-shot hyperparameter transfer](https://arxiv.org/abs/2203.03466). arXiv preprint arXiv:2203.03466, 2022.
 
 - **Lecture 18**: 3.12 <font color=red>[Advanced Topic]</font>
   - Implicit Bias ([LTFP] Section 12.1)
