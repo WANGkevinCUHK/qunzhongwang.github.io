@@ -146,6 +146,8 @@ Syllabus
 - **Lecture 18**: 3.12 <font color=red>[Advanced Topic]</font>
   - Implicit Bias ([LTFP] Section 12.1)
   - Large Language Model and In-context Learning
+  - Advacned Reading:
+    - Kim J, Nakamaki T, Suzuki T. [Transformers are minimax optimal nonparametric in-context learner](https://arxiv.org/abs/2408.12186). arXiv preprint arXiv:2408.12186, 2024.
 
 
 ### Homework
