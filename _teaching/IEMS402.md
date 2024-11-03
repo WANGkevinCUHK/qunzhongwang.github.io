@@ -28,7 +28,12 @@ Syllabus
 
 
 ### Scheldue
-- **Lecture 1**: 
+- **Lecture 1**:
+  - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
+  - Why the success of Deep Learning is a mystery.
+- **Lecture 2**:
+  - Bias-Variance Trade-off of Kernel Smoothing Estimator, Curse of Dimensionality ([LTFP] Section 6)
+- **Lecture 3**:
 
 ### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
