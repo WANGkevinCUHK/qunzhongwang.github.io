@@ -122,11 +122,21 @@ Syllabus
 
 <font color=red>[Homework 7 DUE]</font>
 
-- **Lecture 15-16**: 3.3,3.5 <font color=red>[Advanced Topic]</font>
-  - Optimal Transport and Sampling
-  - Brief Intro to Diffusion Model
-  - Suggested Reading:
-    - [Log-concave sampling](https://chewisinho.github.io/main.pdf )
+- **Lecture 15**: 3.3 <font color=red>[Advanced Topic]</font>
+  - Optimal Transport, Kantorovich Duality
+  - Suggested Reading (Optimal Transport):
+    - (Central Limit Theorem) Goldfeld Z, Greenewald K. [Gaussian-smoothed optimal transport: Metric structure and statistical efficiency] International Conference on Artificial Intelligence and Statistics. PMLR, 2020: 3327-3337.
+    - Si N, Blanchet J, Ghosh S, et al. [Quantifying the empirical Wasserstein distance to a set of measures: Beating the curse of dimensionality](https://proceedings.neurips.cc/paper/2020/hash/f3507289cfdc8c9ae93f4098111a13f9-Abstract.html). Advances in Neural Information Processing Systems, 2020, 33: 21260-21270.
+    - Li J, Tang J, Kong L, et al. [A convergent single-loop algorithm for relaxation of gromov-wasserstein in graph data](https://arxiv.org/abs/2303.06595). arXiv preprint arXiv:2303.
+
+- **Lecture 16**: 3.5 <font color=red>[Advanced Topic]</font>
+  - Sampling via Wasserstein Gradient Flow
+  - Generative Modeling and Diffusion Model
+  - Suggested Reading (Sampling):
+    - Liu Q, Wang D. [Stein variational gradient descent: A general purpose bayesian inference algorithm](https://proceedings.neurips.cc/paper_files/paper/2016/hash/b3ba8f1bee1238a2f37603d90b58898d-Abstract.html). Advances in neural information processing systems, 2016, 29.
+    - [Log-concave sampling](https://chewisinho.github.io/main.pdf)
+    - Chen A Y, Sridharan K. [From Optimization to Sampling via Lyapunov Potentials](https://arxiv.org/abs/2410.02979). arXiv preprint arXiv:2410.02979, 2024.
+  - Suggested Reading
     - Song Y, Sohl-Dickstein J, Kingma D P, et al. [Score-based generative modeling through stochastic differential equations](https://arxiv.org/abs/2011.13456). arXiv preprint arXiv:2011.13456, 2020.
     - Lipman Y, Chen R T Q, Ben-Hamu H, et al. [Flow matching for generative modeling](https://arxiv.org/abs/2210.02747). arXiv preprint arXiv:2210.02747, 2022.
     - Albergo M S, Boffi N M, Vanden-Eijnden E. [Stochastic interpolants: A unifying framework for flows and diffusions](https://arxiv.org/abs/2303.08797). arXiv preprint arXiv:2303.08797, 2023.
