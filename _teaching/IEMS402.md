@@ -104,6 +104,48 @@ Syllabus
 - **Lecture 13**: 2.17
   - Ledoux-Talagrand Contraction Principle
   - Dudley's theorem
+- **Lecture 14**: 2.19 <font color=red>[Advanced Topic]</font>
+  - Localized Complexity
+  - Non-parametric Least-square
+  - Suggested Reading:
+<font color=red>[Homework 6 DUE]</font>
+
+- **Lecture 15**: 2.24
+  - Reproducing Kernel Hilbert Space
+  - Advanced Reading:
+    - Haas M, Holzmüller D, Luxburg U, et al. Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension[J]. Advances in Neural Information Processing Systems, 2024, 36.
+    - Schölpple M, Steinwart I. [Which Spaces can be Embedded in Reproducing Kernel Hilbert Spaces?](https://arxiv.org/abs/2312.14711) arXiv preprint arXiv:2312.14711, 2023.
+    - Lu Y, Lin D, Du Q. [Which Spaces can be Embedded in Lp-type Reproducing Kernel Banach Space? A Characterization via Metric Entropy](https://arxiv.org/abs/2410.11116). arXiv preprint arXiv:2410.11116, 2024.
+- **Lecture 15**: 2.26
+  - Distrbution Shift
+  - Distributionally Robust Optimization
+
+<font color=red>[Homework 7 DUE]</font>
+
+- **Lecture 15-16**: 3.3,3.5 <font color=red>[Advanced Topic]</font>
+  - Optimal Transport and Sampling
+  - Brief Intro to Diffusion Model
+  - Suggested Reading:
+    - [Log-concave sampling](https://chewisinho.github.io/main.pdf )
+    - Song Y, Sohl-Dickstein J, Kingma D P, et al. [Score-based generative modeling through stochastic differential equations](https://arxiv.org/abs/2011.13456). arXiv preprint arXiv:2011.13456, 2020.
+    - Lipman Y, Chen R T Q, Ben-Hamu H, et al. [Flow matching for generative modeling](https://arxiv.org/abs/2210.02747). arXiv preprint arXiv:2210.02747, 2022.
+    - Albergo M S, Boffi N M, Vanden-Eijnden E. [Stochastic interpolants: A unifying framework for flows and diffusions](https://arxiv.org/abs/2303.08797). arXiv preprint arXiv:2303.08797, 2023.
+<font color=red>[Homework 8 DUE]</font>
+
+- **Lecture 17**: 3.10
+  - Deep Learning Theory:  ([LTFP] Section 12.3, 12.5)
+    - Neural Tagent Kernel
+    - Mean-field Limit of Neural Network
+  - Suggested Reading:
+    -  Bach F. [Breaking the curse of dimensionality with convex neural networks](https://arxiv.org/abs/1412.8690). Journal of Machine Learning Research, 2017, 18(19): 1-53.
+    -  Chizat L, Oyallon E, Bach F. [On lazy training in differentiable programming](https://arxiv.org/abs/1812.07956). Advances in neural information processing systems, 2019, 32.
+  - Advanced Reading:
+    - Chizat L, Bach F. [On the global convergence of gradient descent for over-parameterized models using optimal transport](https://arxiv.org/abs/1805.09545). Advances in neural information processing systems, 2018, 31.
+    - 
+
+- **Lecture 18**: 3.12 <font color=red>[Advanced Topic]</font>
+  - Implicit Bias ([LTFP] Section 12.1)
+  - Large Language Model and In-context Learning
 
 
 ### Homework
