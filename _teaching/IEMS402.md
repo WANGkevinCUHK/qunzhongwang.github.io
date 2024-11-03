@@ -16,7 +16,7 @@ Objectives:
 ======
 This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws/benign overfitting of deep learning, generative AI, and language models. (e.g. Neural Tagent Kernel, Mean-Field Limit of Neural Network and In-context Learning)
 
-**ChatGPT Tutor:** The link here provides a Large Language Model agents that is specifically trained for this course.
+**ChatGPT Tutor:** The [[link]](https://chatgpt.com/g/g-IubmUPho0-iems-402-statistical-learning) here provides a Large Language Model agents that is specifically trained for this course.
 
 If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[IEMS402]" in the subject line. This will help ensure that I do not overlook your message.
 
