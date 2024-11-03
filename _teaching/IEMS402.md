@@ -12,7 +12,8 @@ location: "Evanston, IL"
 Required graduate course on mathematical foundations of data science. **Syllabus**:[[link]](https://docs.google.com/document/d/1n9GF09jiJ5Nfmd1dlQoMNsgoWvffcpU36zzZ-Bc5iug/edit?usp=sharing)
 
 
-#### Objectives:
+Objectives:
+======
 This course provides foundational and advanced concepts in statistical learning theory, essential for analyzing complex data and making informed predictions. Students will delve into both asymptotic and non-asymptotic analyses of machine learning algorithms, addressing critical challenges such as model bias, variance, and robustness in uncertain environments. Toward the end of the course, students will apply these principles to modern machine learning contexts, including the scaling laws of deep learning, generative AI, and language models. (e.g. Neural Tagent Kernel, Mean-Field Limit of Neural Network and In-context Learning)
 
 **ChatGPT Tutor:** The link here provides a Large Language Model agents that is specifically trained for this course.
@@ -21,15 +22,15 @@ If you have a question, to get a response from the teaching staff quickly we str
 
 Syllabus
 ======
-#### Text Book
+### Text Book
 - [[Learning Theory from First Principles]](https://www.di.ens.fr/~fbach/ltfp_book.pdf ) Francis Bach [LTFP]
 - [[Asymptotic Statistics]](https://www.cambridge.org/core/books/asymptotic-statistics/A3C7DAD3F7E66A1FA60E9C8FE132EE1D) A. W. van der Vaart [AS]
 
 
-#### Scheldue
+### Scheldue
 - **Lecture 1**: 
 
-#### Homework
+### Homework
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
 - [[Homework 2]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework2.pdf): Bias and Variance Trade-off 1: Kernel Smoothing
 - [[Homework 3]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework3.pdf): Bias and Variance Trade-off 2: Overparameterization
@@ -39,7 +40,7 @@ Syllabus
 - [[Homework 7]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework7.pdf): Complexity of Hypothesis Space
 - [[Homework 8]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework8.pdf): RKHS and Robust Learning
 
-#### Exams
+### Exams
 - [[Practice Mid-Term Exam]]()
 - [[Practice Final Exam]]()
 
