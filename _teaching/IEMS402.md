@@ -131,9 +131,10 @@ Syllabus
     - <font color=red>(Optimization)</font> Li J, Tang J, Kong L, et al. [A convergent single-loop algorithm for relaxation of gromov-wasserstein in graph data](https://arxiv.org/abs/2303.06595). arXiv preprint arXiv:2303.
 
 - **Lecture 16**: 3.5 <font color=red>[Advanced Topic]</font>
-  - Sampling via Wasserstein Gradient Flow
+  - Sampling via Wasserstein Gradient Flow (JKO Scheme)
   - Generative Modeling and Diffusion Model
   - Suggested Reading (Sampling):
+    - Richard Jordan, David Kinderlehrer, and Felix Otto. The variational formulation of the Fokker–Planck equation. SIAM journal on mathematical analysis, 29(1):1–17, 1998.
     - Liu Q, Wang D. [Stein variational gradient descent: A general purpose bayesian inference algorithm](https://proceedings.neurips.cc/paper_files/paper/2016/hash/b3ba8f1bee1238a2f37603d90b58898d-Abstract.html). Advances in neural information processing systems, 2016, 29.
     - [Log-concave sampling](https://chewisinho.github.io/main.pdf)
     - Chen A Y, Sridharan K. [From Optimization to Sampling via Lyapunov Potentials](https://arxiv.org/abs/2410.02979). arXiv preprint arXiv:2410.02979, 2024.
