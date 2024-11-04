@@ -185,9 +185,16 @@ Syllabus
 
 - **Lecture 18**: 3.12 <font color=red>[Advanced Topic]</font>
   - Implicit Bias ([LTFP] Section 12.1)
-  - Large Language Model and In-context Learning
+  - Large Language Model
+    - In-context Learning, Chain-of-thoughts and Circuit Theory, Alignment of AI
   - Advacned Reading:
-    - Kim J, Nakamaki T, Suzuki T. [Transformers are minimax optimal nonparametric in-context learner](https://arxiv.org/abs/2408.12186). arXiv preprint arXiv:2408.12186, 2024.
+    - Kim J, Nakamaki T, Suzuki T. Transformers are minimax optimal nonparametric in-context learner. arXiv preprint arXiv:2408.12186, 2024.
+    - Von Oswald J, Niklasson E, Randazzo E, et al. Transformers learn in-context by gradient descent International Conference on Machine Learning. PMLR, 2023: 35151-35174.
+    - Shen L, Mishra A, Khashabi D. Do pretrained Transformers Really Learn In-context by Gradient Descent?. arXiv preprint arXiv:2310.08540, 2023.
+    - Giannou A, Yang L, Wang T, et al. How Well Can Transformers Emulate In-context Newton's Method?. arXiv preprint arXiv:2403.03183, 2024.
+    - Feng G, Zhang B, Gu Y, et al. Towards revealing the mystery behind chain of thought: a theoretical perspective. Advances in Neural Information Processing Systems, 2024, 36.
+    - Lee J, Xie A, Pacchiano A, et al. Supervised pretraining can learn in-context reinforcement learning. Advances in Neural Information Processing Systems, 2024, 36.
+
 
 
 ### Homework
