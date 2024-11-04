@@ -87,12 +87,14 @@ Here is a review of all the preliminary we'll use in this class:
 
 - **Lecture 5**: 1.20 <font color=red>[No Class]</font> (Martin Luther King Jr. Day)
 - **Lecture 6**: 1.22
-   - Asymptotic normality, (Implicit) Delta Method
-
+   - Asymptotic normality
+   - Inverse function theorem, (Implicit) Delta Method
+   - Moment Methods
 <font color=red>[Homework 3 DUE]</font>
 
 - **Lecture 7**: 1.27
   - Influnce function
+  - Cramer-Rao Bound and Con of Unbiased Estimators (James-Stein estimator)
   - Sugessted Reading:
     - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
     - Basu S, Pope P, Feizi S. [Influence functions in deep learning are fragile](https://arxiv.org/abs/2006.14651).
