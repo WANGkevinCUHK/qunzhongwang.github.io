@@ -49,6 +49,7 @@ Syllabus
     - <font color=red>(Required)</font> Mallinar N, Simon J, Abedsoltan A, et al. [Benign, tempered, or catastrophic: Toward a refined taxonomy of overfitting](https://proceedings.neurips.cc/paper_files/paper/2022/hash/08342dc6ab69f23167b4123086ad4d38-Abstract-Conference.html). Advances in Neural Information Processing Systems, 2022, 35: 1182-1195.
     - Li H, Xu Z, Taylor G, et al. [Visualizing the loss landscape of neural nets](https://proceedings.neurips.cc/paper/2018/hash/a41b3bb3e6b050b6c9067c67f663b915-Abstract.html). Advances in neural information processing systems, 2018, 31.
     - Keskar N S, Mudigere D, Nocedal J, et al. [On large-batch training for deep learning: Generalization gap and sharp minima](https://arxiv.org/abs/1609.04836). arXiv preprint arXiv:1609.04836, 2016.
+    - Wipf D P, Rao B D. [Sparse Bayesian learning for basis selection](https://ieeexplore.ieee.org/document/1315936) IEEE Transactions on Signal processing, 2004, 52(8): 2153-2164.
 
 <font color=red>[Homework 1 DUE]</font>
 
