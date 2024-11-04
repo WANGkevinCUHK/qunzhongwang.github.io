@@ -30,6 +30,7 @@ Syllabus
 ### Scheldue
 - **Lecture 1-2**: <font color=red>Concept</font> 1.6/1.8
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
+  - Deisgn of Loss function: Max Likelihood, Surrogate Loss
   - Difference between IEMS402 (Statistical Learning) and IEMS401 (Applied Statistics)
     - Loss convergence V.S. Parameter Recover
     - Non-parametric V.S. Parametric
@@ -58,7 +59,19 @@ Syllabus
     - Chhor J, Sigalla S, Tsybakov A B. [Benign overfitting and adaptive nonparametric regression](https://link.springer.com/article/10.1007/s00440-024-01278-0). Probability Theory and Related Fields, 2024: 1-32.
 - **Lecture 4**: <font color=red>Concept</font> 1.15
   - Diagram of Learning: Supervised, Unsupervised, Semi-supervised, Self-supervised, Generative AI
-  - Deisgn of Loss function: Max Likelihood, Surrogate Loss
+  - spectral clustering and t-SNE
+  - Infomax and self-supervised learning
+  - Relationship between spectral clustering, t-SNE and self-supervised learning
+  - Suggested Reading:
+    - Zhou X, Belkin M. Semi-supervised learning by higher order regularization Proceedings of the fourteenth international conference on artificial intelligence and statistics. JMLR Workshop and Conference Proceedings, 2011: 892-900.
+    - Hjelm R D, Fedorov A, Lavoie-Marchildon S, et al. Learning deep representations by mutual information estimation and maximization. arXiv preprint arXiv:1808.06670, 2018.
+    - Linderman G C, Steinerberger S. Clustering with t-SNE, provably. SIAM journal on mathematics of data science, 2019, 1(2): 313-332.
+    - HaoChen J Z, Wei C, Gaidon A, et al. Provable guarantees for self-supervised deep learning with spectral contrastive loss. Advances in Neural Information Processing Systems, 2021, 34: 5000-5011.
+  - Advanced Reading:
+    - X. Cheng and N. Wu. "Eigen-convergence of Gaussian kernelized graph Laplacian by manifold heat interpolation". Applied and Computational Harmonic Analysis, 61, 132-190 (2022)
+    - Cai T T, Ma R. Theoretical foundations of t-sne for visualizing high-dimensional clustered data[J]. Journal of Machine Learning Research, 2022, 23(301): 1-54.
+
+
 
 <font color=red>[Homework 2 DUE]</font>
 
