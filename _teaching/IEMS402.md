@@ -93,7 +93,7 @@ Here is a review of all the preliminary we'll use in this class:
 <font color=red>[Homework 3 DUE]</font>
 
 - **Lecture 7**: 1.27
-  - Influnce function
+  - Influnce function, Fisher Information
   - Cramer-Rao Bound and Con of Unbiased Estimators (James-Stein estimator)
   - Sugessted Reading:
     - Koh P W, Liang P. [Understanding black-box predictions via influence functions International conference on machine learning](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) PMLR, 2017: 1885-1894. (ICML 2017 best paper)
