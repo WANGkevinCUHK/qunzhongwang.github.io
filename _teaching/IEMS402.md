@@ -26,7 +26,10 @@ Syllabus
 - [[Learning Theory from First Principles]](https://www.di.ens.fr/~fbach/ltfp_book.pdf ) Francis Bach [LTFP]
 - [[Asymptotic Statistics]](https://www.cambridge.org/core/books/asymptotic-statistics/A3C7DAD3F7E66A1FA60E9C8FE132EE1D) A. W. van der Vaart [AS]
 
+### Prelinminary
+IEMS 401 Applied Statistics, IEMS 450-1: Mathematical Optimization I
 
+Probability and Optimization Review: [[link]](https://2prime.github.io/files/IEMS402/IEMS402ProbOptReview.pdf)
 ### Scheldue
 - **Lecture 1-2**: <font color=red>Concept</font> 1.6/1.8
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
