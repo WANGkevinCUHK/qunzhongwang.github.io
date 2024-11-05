@@ -18,7 +18,7 @@ This course provides foundational and advanced concepts in statistical learning 
 
 **ChatGPT Tutor:** The [[link]](https://chatgpt.com/g/g-IubmUPho0-iems-402-statistical-learning) here provides a Large Language Model agents that is specifically trained for this course.
 
-If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[IEMS402]" in the subject line. This will help ensure that I do not overlook your message.
+If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form]([https://forms.gle/Dtw6PRFdnbk8NQWRA](https://forms.gle/9cddGRikoPMhHCRv8)). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[IEMS402]" in the subject line. This will help ensure that I do not overlook your message.
 
 Syllabus
 ======
