@@ -113,6 +113,7 @@ Here is a review of all the preliminary we'll use in this class:
   - Advanced Reading:
     - Kur G, Putterman E, Rakhlin A. [On the variance, admissibility, and stability of empirical risk minimization](https://arxiv.org/abs/2305.18508). Advances in Neural Information Processing Systems, 2024, 36.
     - Kur, Gil, et al. [Minimum Norm Interpolation Meets The Local Theory of Banach Spaces](https://openreview.net/forum?id=G4b32bKnBy). Forty-first International Conference on Machine Learning.
+    - Xu, Yunbei, and Assaf Zeevi. "Towards optimal problem dependent generalization error bounds in statistical learning theory." Mathematics of Operations Research (2024).
 
 <font color=red>[Homework 5 DUE]</font>
 
