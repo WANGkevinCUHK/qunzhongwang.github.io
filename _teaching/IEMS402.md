@@ -210,6 +210,9 @@ Here is a review of all the preliminary we'll use in this class:
 
 
 ### Homework
+
+*Your grade will be computed by max(HW1,HW8)+max(HW2,HW3)+max(HW4,HW5)+max(HW6,HW7).* 
+
 - [[Homework 1]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework1.pdf): Review of Probability Statistics and Optimization
 - [[Homework 2]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework2.pdf): Bias and Variance Trade-off 1: Overparameterization
 - [[Homework 3]](https://2prime.github.io/files/IEMS402/IEMS_402_Homework3.pdf): Bias and Variance Trade-off 2: Kernel Smoothing
