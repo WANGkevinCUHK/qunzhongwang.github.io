@@ -37,7 +37,7 @@ Here is a review of all the preliminary we'll use in this class:
   - Different notion of convergence in probability is useful but not required in our class. Our class will just do intuituive proof.
 
 ### Scheldue
-- **Lecture 1-2**: <font color=red>Concept</font> 1.6/1.8
+- **Lecture 1-2**: <font color=red>Concept</font> 1.6/1.8 [[Feedback for Lecture 1]](https://forms.gle/atExX4xTGnaghB6RA) [[Feedback for Lecture 2]](https://forms.gle/XcbcPrBbaswdMqNLA) 
   - Supervised Learning, Empirical Risk Minimization, Risk Decomposition ([LTFP] Section 2)
   - Deisgn of Loss function: Max Likelihood, Surrogate Loss
   - Difference between IEMS402 (Statistical Learning) and IEMS401 (Applied Statistics)
