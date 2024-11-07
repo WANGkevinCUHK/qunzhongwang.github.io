@@ -29,7 +29,7 @@ Syllabus
 ### Prelinminary
 - Calculus, Linear Algebra
 - [IEMS 302 Probability](https://www.mccormick.northwestern.edu/industrial/academics/courses/descriptions/302.html)
-- Probability and Statistics: Strong Law of Large Numbers, Central Limit Theorem,  Big-O, little-o notation, 
+- Probability and Statistics: Strong Law of Large Numbers, [Central Limit Theorem](https://www.youtube.com/watch?v=yv9nLOD1QPE&t=3653s),  Big-O, little-o notation, 
 - Optimization Theory: Lagrangian Duality Theory [IEMS 450-2: Mathematical Optimization II](https://www.mccormick.northwestern.edu/industrial/academics/courses/descriptions/450-2.html) (Interestingly, IEMS 450-1 is not required)
 
 Here is a review of all the preliminary we'll use in this class:
