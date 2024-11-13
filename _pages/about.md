@@ -46,7 +46,7 @@ I am a tenure-track assistant professor at  [Industrial Engineering & Management
 >   - Diffusion Process (Simulation free methods for control)
 >   - Foundation models
 
-> **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students and Postdocs. Prospective Students see [here](https://2prime.github.io/students/). Summer Intern for 2024 can see [here](https://2prime.github.io/files/SummerIntern_Yiping.pdf). You can also find information about my research [here](https://2prime.github.io/research/) 
+> **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students and Postdocs. Prospective Students see [here](https://2prime.github.io/students/). Summer Intern for 2025 can see [here](https://2prime.github.io/files/SummerIntern_Yiping.pdf). You can also find information about my research [here](https://2prime.github.io/research/) 
 
 **To anyone:** I would appreciate [(anonymous) feedback](https://docs.google.com/forms/d/e/1FAIpQLScCWSzTQGMVKhxDVSiCopYD740Txm-cMoxIh-dg08FcRKT-8Q/viewform?usp=sf_link) about anything!
 
