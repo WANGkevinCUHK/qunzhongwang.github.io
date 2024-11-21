@@ -73,7 +73,7 @@ Service and leadership
   * CSIAM Transactions on Applied Mathematics
   * SIAM Journal on Optimization
   * SIAM Journal on Applied Algebra and Geometry
-* **Workshop/Minisymposium Organization**: ICCOPT 2022, SIAM OPT 2023
+* **Workshop/Minisymposium Organization**: ICCOPT , SIAM OPT , INFORMS
 
 <br> 
 <br> 
