@@ -43,15 +43,13 @@ I will dedicate 30 mins every week for junior PhD/master/undergraduate students,
 
 ## Cooperating Undergraduate Students
 
-- 2021: [Wenlong Ji](https://scholar.google.com/citations?user=UW2Ji5MAAAAJ&hl=en) (PKU -> Stanford Statistics, neural collapse, [paper](https://arxiv.org/abs/2110.02796)), [Haoxuan Chen](https://haoxuanstevec00.github.io/) (Caltech -> Stanford ICME, minmax optimality of solving PDE, [paper](https://arxiv.org/abs/2110.06897))
-- 2022: [Jikai Jin](https://scholar.google.com/citations?user=xQqZt2AAAAAJ&hl=en) (PKU -> Stanford ICME, minmax optimality of kernel operator learning, [paper](https://arxiv.org/abs/2209.14430))
-- 2024: [Kaizhao Liu](https://drzfct.github.io/) (PKU-> ?, [paper](https://arxiv.org/abs/2404.19145)), [Hounam Wong](https://openreview.net/profile?id=~Honam_Wong1) (HKUST->?, [paper](https://arxiv.org/abs/2406.09194)), Ruihan Xu (SJTU->?, [paper](https://arxiv.org/abs/2410.11115))
-- 2026: Wendao Wu (PKU->?, Machaine Learning Theory), Zexi Fan (PKU->?, machine learning for rare event and stochastic simulation)
+- Class of 2022: [Wenlong Ji](https://scholar.google.com/citations?user=UW2Ji5MAAAAJ&hl=en) (PKU -> Stanford Statistics, neural collapse, [paper](https://arxiv.org/abs/2110.02796)), [Haoxuan Chen](https://haoxuanstevec00.github.io/) (Caltech -> Stanford ICME, minmax optimality of solving PDE, [paper](https://arxiv.org/abs/2110.06897))
+- Class of 2023: [Jikai Jin](https://scholar.google.com/citations?user=xQqZt2AAAAAJ&hl=en) (PKU -> Stanford ICME, minmax optimality of kernel operator learning, [paper](https://arxiv.org/abs/2209.14430))
+- Class of 2025: [Kaizhao Liu](https://drzfct.github.io/) (PKU-> ?, [paper](https://arxiv.org/abs/2404.19145)), [Hounam Wong](https://openreview.net/profile?id=~Honam_Wong1) (HKUST->?, [paper](https://arxiv.org/abs/2406.09194)), Ruihan Xu (SJTU->?, [paper](https://arxiv.org/abs/2410.11115))
+- Class of 2026: Wendao Wu (PKU->?, Machaine Learning Theory), Zexi Fan (PKU->?, machine learning for rare event and stochastic simulation)
+- Class of 2027:
 
 <!-- 2024: , -->
-
-<!-- - Heyuan Yao, **Yiping Lu**, On Geomtery of Optimal Stable Non-linear Approximations: Is Banach Space the Right Model for Superiority? *in preparation*, 2024. -->
-<!-- - **Yiping Lu**, Daozhe Lin, Qiang Du. [Which space can be embeded into Lp Reproducing Kernel Banach Space? A Characterization via Metric Entropy](https://2prime.github.io/files/EmbeddingRKBS_preprint.pdf) *submitted*, 2024. -->
 
 
 <br> 
