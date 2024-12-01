@@ -38,6 +38,6 @@ I am currently a second-year undergraduate at the **Chinese University of Hong K
 ### **Working Papers**
 
 - **Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**  
-  -*Qunzhong Wang, Xiangguo Sun, Hong Cheng*  
+  - *Qunzhong Wang, Xiangguo Sun, Hong Cheng*  
   - Working Paper, 2024.  
   - Available at: [https://arxiv.org/abs/2410.01635](https://arxiv.org/abs/2410.01635)
