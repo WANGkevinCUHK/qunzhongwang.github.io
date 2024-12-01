@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-====
+
 You can download my cv from this : [<mark>overleaf project link</mark>](https://www.overleaf.com/read/xdvcvgwvkqrv#5c3266)
 
 Education
