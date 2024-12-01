@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "MyImage.jpg"
-  name             : "Qunzhong WANG "Eric""
+  name             : "Qunzhong WANG (Eric)"
   location         : "HongKong, China"
   employer         : "The Chinese University of HK"
-  uri              : 
+  uri              :  https://wangkevincuhk.github.io/qunzhongwang.github.io/
   email            : "1155210998@link.cuhk.edu.hk" 
 
   # Academic websites
