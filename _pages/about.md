@@ -18,7 +18,7 @@ I am currently a second-year undergraduate at the **Chinese University of Hong K
   - **Meritorious Winner** in the Mathematical Modeling Contest(MCM)
 
 - **Mathematics Competition:**
-  - Golden medal in Chinese Mathematics Olympiad(CMO)
+  - **Golden medal** in Chinese Mathematics Olympiad(CMO)
   - Ranked **11th** in the EAST division of Simon Marais Mathematics Competition
     
 - **Programming Contest**
@@ -28,7 +28,8 @@ I am currently a second-year undergraduate at the **Chinese University of Hong K
 
 ### **Research Experience**
 
-- **Supervised by:** [Prof. Cheng Hong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)  
+- Summer Research Internship in CUHK (5/2024-)
+  -**Supervised by:** [Prof. Cheng Hong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)  
   - **Research Topics:**
     - Graph Neural Networks (GNN)
     - Theory of GNN Prompt Engineering
