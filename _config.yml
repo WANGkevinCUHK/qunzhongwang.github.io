@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image/MyImage.png"
+  avatar           : "MyImage.png"
   name             : "Qunzhong WANG (Eric)"
   location         : "HongKong, China"
   employer         : "The Chinese University of HK"
