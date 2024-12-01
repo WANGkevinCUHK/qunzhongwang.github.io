@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-You can download my cv from this : [<mark>overleaf project link</mark>](https://www.overleaf.com/read/xdvcvgwvkqrv#5c3266)
+You can download my cv from this : [overleaf project link](https://www.overleaf.com/read/xdvcvgwvkqrv#5c3266)
 
 Education
 ======
