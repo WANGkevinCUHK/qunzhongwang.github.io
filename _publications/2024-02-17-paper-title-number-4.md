@@ -11,5 +11,6 @@ citation: 'Wang, Q., Sun, X., & Cheng, H. (2024). *Does Graph Prompt Work? A Dat
 ---
 
 [Download paper here](https://github.com/WANGkevinCUHK/qunzhongwang.github.io/files/ICLR_2025_Prompt_on_Data_Operation_Level.pdf)
-Recommended citation: Wang, Q., Sun, X., & Cheng, H. (2024). *Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis*. arXiv. Retrieved from [https://arxiv.org/abs/2410.01635](https://arxiv.org/abs/2410.01635)
+
+Citation: Wang, Q., Sun, X., & Cheng, H. (2024). *Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis*. arXiv. Retrieved from [https://arxiv.org/abs/2410.01635](https://arxiv.org/abs/2410.01635)
 
