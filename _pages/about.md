@@ -18,7 +18,7 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ---
 
-### **Selected Honors**
+## **Selected Honors**
 
 - **Modeling Competitions:**
   - **Meritorious Winner** in the Mathematical Modeling Contest(MCM)
@@ -37,7 +37,7 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ---
 
-### **Research Experience**
+## **Research Experience**
 
 - Summer Research Internship in CUHK (2/2024-9/2024)
   - **Supervised by:** [Prof. Cheng Hong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)  
@@ -53,7 +53,7 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ---
 
-### **Working Papers**
+## **Working Papers**
 
 - **Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**  
   - *Qunzhong Wang, Xiangguo Sun, Hong Cheng*  
@@ -62,5 +62,6 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ---
 
-### **Projects**
+## **Projects**
+
 
