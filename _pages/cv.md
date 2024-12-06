@@ -33,20 +33,16 @@ Main Courses
 Work experience
 =====
 
-### The Chinese University of Hong Kong  
-**Research Assistant - Prof. Hong Cheng**  
-*Feb 2024 – Sep 2024*  
+- ### The Chinese University of Hong Kong  
+  - **Research Assistant - Prof. Hong Cheng**  
+  - *Feb 2024 – Sep 2024*  
+    - **GNN Prompt Theory Analysis**: Analyzed the theoretical effectiveness and limits of graph prompt learning from a data operations perspective. Presented results through a poster and submitted a paper to a top conference as the first author.  
+    - **Contributed to the ProG Project**: Ranked as the third top contributor. Developed a unified implementation of graph prompts across multiple GNN paradigms. The project has 500+ stars and is available on [GitHub](https://github.com/sheldonresearch/ProG).
 
-- **GNN Prompt Theory Analysis**:  
-  Analyzed the theoretical effectiveness and limits of graph prompt learning from a data operations perspective. Presented results through a poster and submitted a paper to a top conference as the first author.  
-- **Contributed to the ProG Project**:  
-  Ranked as the third top contributor. Developed a unified implementation of graph prompts across multiple GNN paradigms. The project has 500+ stars and is available on [GitHub](https://github.com/sheldonresearch/ProG).
-
-**Research Assistant - Prof. Lingfei Li**  
-*Nove 2024 - Present*
-
-- **Scored-Based Conditional Diffusion Model for Prediction**  
-  Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints. The project is ongoing, with the goal of converting the results into a journal publication.
+- ### The Chinese University of Hong Kong 
+  - **Research Assistant - Prof. Lingfei Li**  
+  - *Nove 2024 - Present*
+    - **Scored-Based Conditional Diffusion Model for Prediction**: Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints. The project is ongoing, with the goal of converting the results into a journal publication.
 
 Research Interests
 =====
