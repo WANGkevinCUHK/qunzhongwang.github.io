@@ -18,15 +18,20 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ### **Honors and Awards**
 
-- **Mathematical Modeling Competitions:**
+- **Modeling Competitions:**
   - **Meritorious Winner** in the Mathematical Modeling Contest(MCM)
 
 - **Mathematics Competition:**
   - **Golden medal** in Chinese Mathematics Olympiad(CMO)
   - Ranked **11th** in the EAST division of Simon Marais Mathematics Competition
-    
-- **Programming Contest**
-  - Member of the **CUHK ICPC School Team (2023–Present)**
+
+- **Scholarships**
+  - **Prof Omar Wing Memorial Scholarship** (HK$50,000 awarded by CUHK) *(2023)*  
+  - **Soong Ching Ling Scholarship** (¥400,000 for 4 years awarded by the Chinese Government) *(2023)*  
+  - **Admission Scholarship of CUHK** (HK$50,000) *(2023)*
+  
+- **Honors**
+  - Dean's List, CUHK, *(2023)*
 
 ---
 
