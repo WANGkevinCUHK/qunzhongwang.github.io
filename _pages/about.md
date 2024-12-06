@@ -18,7 +18,7 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ---
 
-### **Honors and Awards**
+### **Selected Honors**
 
 - **Modeling Competitions:**
   - **Meritorious Winner** in the Mathematical Modeling Contest(MCM)
