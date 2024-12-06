@@ -14,6 +14,8 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 **I am actively seeking research internship opportunities (virtual or in-person)**. My goal is to pursue a PhD in such domain, contributing to bridge the gap bewteen theory and practice in AI.
 
+
+
 ---
 
 ### **Honors and Awards**
@@ -37,11 +39,17 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 ### **Research Experience**
 
-- Summer Research Internship in CUHK (5/2024-)
-  -**Supervised by:** [Prof. Cheng Hong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)  
+- Summer Research Internship in CUHK (2/2024-9/2024)
+  - **Supervised by:** [Prof. Cheng Hong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)  
   - **Research Topics:**
     - Graph Neural Networks (GNN)
     - Theory of GNN Prompt Engineering
+
+- Research Assistant In CUHK (11/2024-present)
+  - **Supervised by:** [Prof. Li lingfei](https://www.se.cuhk.edu.hk/people/academic-staff/prof-li-lingfei/)
+  - **Research Topics:**
+    - Score Based Diffusion Models
+    - Prediction of Implied Volatility Surface
 
 ---
 
@@ -51,3 +59,8 @@ My primary interests lie in the **mathematical foundations of artificial intelli
   - *Qunzhong Wang, Xiangguo Sun, Hong Cheng*  
   - Working Paper, 2024.  
   - Available at: [https://arxiv.org/abs/2410.01635](https://arxiv.org/abs/2410.01635)
+
+---
+
+### **Projects**
+
