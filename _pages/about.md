@@ -28,12 +28,12 @@ My primary interests lie in the **mathematical foundations of artificial intelli
   - Ranked **11th** in the EAST division of Simon Marais Mathematics Competition
 
 - **Scholarships**
-  - **Prof Omar Wing Memorial Scholarship** (HK$50,000 awarded by CUHK) *(2023)*  
-  - **Soong Ching Ling Scholarship** (¥400,000 for 4 years awarded by the Chinese Government) *(2023)*  
-  - **Admission Scholarship of CUHK** (HK$50,000) *(2023)*
+  - **Prof Omar Wing Memorial Scholarship** (HK$50,000 awarded by CUHK)
+  - **Soong Ching Ling Scholarship** (¥400,000 for 4 years awarded by the Chinese Government)  
+  - **Admission Scholarship of CUHK** (HK$50,000) 
   
 - **Honors**
-  - Dean's List, CUHK, *(2023)*
+  - Dean's List, CUHK
 
 ---
 
