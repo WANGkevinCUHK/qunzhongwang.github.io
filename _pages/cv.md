@@ -14,17 +14,17 @@ You can download my cv from this : [overleaf project link](https://www.overleaf.
 
 Education
 ======
-* B.S. in Mathematics and Infomation Engineering, The Chinese University of Hong Kong, 2023
+* Double Major in Mathematics and Infomation Engineering, The Chinese University of Hong Kong, 2023-2027(Expected)
 
 
-Skills Summary
+Main Courses
 =====
 
 - **Languages:** C, C++, Python, Matlab  
-- **Tools:** PyTorch, PyG, SQL  
 - **Analysis:** Mathematical Analysis, Complex Functions, Real Analysis, Functional Analysis  
 - **Algebra:** Advanced Algebra, Algebraic Structures  
-- **Stochasticity:** Probability Theory, Stochastic Process, Stochastic Calculus, Information Theory  
+- **Stochasticity:** Probability Theory, Stochastic Process, Stochastic Calculus, Information Theory
+- **Tools:** PyTorch, PyG, SQL  
 
 Work experience
 =====
@@ -38,23 +38,20 @@ Work experience
 - **Contributed to the ProG Project**:  
   Ranked as the third top contributor. Developed a unified implementation of graph prompts across multiple GNN paradigms. The project has 500+ stars and is available on [GitHub](https://github.com/sheldonresearch/ProG).
 
+**Research Assistant - Prof. Lingfei Li**  
+*Nove 2024 - Present*
+
+- **Scored-Based Conditional Diffusion Model for Prediction**  
+  Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints. The project is ongoing, with the goal of converting the results into a journal publication.
+
 Research Interests
 =====
 
-My academic interests focus on the intersection of mathematics and artificial intelligence, particularly in exploring the **mathematical foundations behind advancements in AI**. I aim to pursue a PhD in this field, using my mathematical background to address key challenges in AI research. My ultimate goal is to bridge the gap between theory and practice, contributing innovative solutions to advance the field.
+My academic interests focus on the intersection of mathematics and artificial intelligence, particularly in exploring the **mathematical foundations behind advancements in AI**.
 
-- I studied the theory of prompts in GNNs, which was a wonderful experience.  
-- Currently (12/2024), I focus on the theoretical study of the transferability of GNNs between different datasets.  
-- Additionally, I have explored topics like diffusion models, AI for solving PDEs, learning theory, and Transformers.  
-
-Skills Summary
-=====
-
-- **Languages:** C, C++, Python, Matlab  
-- **Tools:** PyTorch, PyG, SQL  
-- **Analysis:** Mathematical Analysis, Complex Functions, Real Analysis, Functional Analysis  
-- **Algebra:** Advanced Algebra, Algebraic Structures  
-- **Stochasticity:** Probability Theory, Stochastic Process, Stochastic Calculus, Information Theory 
+- Conducted research on the theoretical framework of prompts in Graph Neural Networks
+- Currently (12/2024) focused the transferability across different datasets and the application of diffusion models 
+- Developed a broad understanding of various topics through extensive self-study, including diffusion models, AI for solving partial differential equations, learning theory, and Transformers.  
 
 
 Publications and Working Papers
