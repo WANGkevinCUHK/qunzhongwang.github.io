@@ -64,4 +64,16 @@ My primary interests lie in the **mathematical foundations of artificial intelli
 
 # **Projects**
 
+- **ProG**  
+  - **Type**: Code Implementation  
+  - **Time**: 2/2024
+  - **Details**: Ranked as the third top contributor to the ProG project. Developed a unified implementation of graph prompts compatible across multiple GNN paradigms. The project has garnered 500+ stars on GitHub.  
+  - **Link**: [GitHub Repository](https://github.com/sheldonresearch/ProG)  
+
+- **AI Chess Player**  
+  - **Type**: Undergraduate Course Project  
+  - **Time**: 11/2023  
+  - **Details**: Designed and implemented an AI-based chess player, which secured first place in the class competition for the ESTR1002 course.  
+  - **Link**: [GitHub Repository](https://github.com/WANGkevinCUHK/metaSquare)
+
 
