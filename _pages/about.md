@@ -12,13 +12,13 @@ I am a second-year undergraduate at the **Chinese University of Hong Kong (CUHK)
 
 My primary interests lie in the **mathematical foundations of artificial intelligence**, including optimization, learning theory and statistics. I am particularly fascinated by the **theoretical frameworks** behind modern AI systems.
 
-**I am actively seeking research internship opportunities (virtual or in-person)**. My goal is to pursue a PhD in such domain, contributing to bridge the gap bewteen theory and practice in AI. [CV link](https://www.overleaf.com/read/xdvcvgwvkqrv#5c3266)
+**I am actively seeking research internship opportunities (virtual or in-person)**.[Link](https://www.overleaf.com/read/xdvcvgwvkqrv#5c3266) for full resume in pdf. My goal is to pursue a PhD in such domain, contributing to bridge the gap bewteen theory and practice in AI.
 
 
 
 ---
 
-# **Selected Honors**
+# **Selected Awards**
 
 - **Modeling Competitions:**
   - **Meritorious Winner** in the Mathematical Modeling Contest(MCM)
