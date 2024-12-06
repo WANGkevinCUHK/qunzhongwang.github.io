@@ -12,6 +12,8 @@ redirect_from:
 
 You can download my cv from this : [overleaf project link](https://www.overleaf.com/read/xdvcvgwvkqrv#5c3266)
 
+**Below is a brief markdown form of resume**
+
 Education
 ======
 * Double Major in Mathematics and Infomation Engineering, The Chinese University of Hong Kong, 2023-2027(Expected)
