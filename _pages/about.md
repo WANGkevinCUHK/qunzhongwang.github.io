@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qunzhong Wang (王群中)"
+title: "Qunzhong Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year undergraduate at the **Chinese University of Hong Kong (CUHK)**, majoring in **Mathematics and Information Engineering ([MIE](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/))**. Prior to university, my dedication to mathematical problem-solving culminated in a **Gold Medal at the Chinese Mathematics Olympiad (CMO)**. My academic interests lie at the intersection of mathematics and artificial intelligence, particularly in exploring the **underlying mathematical frameworks** that drive advancements in AI and its related fields. I aspire to pursue a PhD in this domain, leveraging my mathematical foundation to tackle fundamental challenges in AI research. Ultimately, my goal is to bridge the gap between theoretical discoveries and practical applications, contributing innovative solutions that push the boundaries of the field.
+I am a second-year undergraduate at the **Chinese University of Hong Kong (CUHK)**, majoring in **Mathematics and Information Engineering (MIE)**. My academic journey began with a strong foundation in mathematics, highlighted by a **Gold Medal at the Chinese Mathematics Olympiad (CMO)**.
+
+My primary interests lie in the **mathematical foundations of artificial intelligence**, including optimization, learning theory and statistics. I am particularly fascinated by the **theoretical frameworks** behind modern AI systems.
+
+**I am actively seeking research internship opportunities (virtual or in-person)**. My goal is to pursue a PhD in such domain, contributing to bridge the gap bewteen theory and practice.
 
 ---
 
-### **School Experiences**
+### **Honors and Awards**
 
 - **Mathematical Modeling Competitions:**
   - **Meritorious Winner** in the Mathematical Modeling Contest(MCM)
