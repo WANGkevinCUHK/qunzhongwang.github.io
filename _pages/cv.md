@@ -66,10 +66,10 @@ Honors and Awards
 
 1. Mathematical Modeling Contest, Meritorious Winner (2024)  
 2. Dean’s List, CUHK (2024)  
-3. China Physics Olympiad (Provincial), First Prize (2022) 
+3. **Soong Ching Ling Scholarship (¥400,000 for 4 years)** (2023)  
 4. Prof Omar Wing Memorial Scholarship (HK$50,000) (2023) 
 5. Simon Marais Mathematics Competition, 11th in East Division (2023)  
-6. **Soong Ching Ling Scholarship (¥400,000 for 4 years)** (2023)  
-7. Admission Scholarship of CUHK (HK$50,000) (2023)  
+6. Admission Scholarship of CUHK (HK$50,000) (2023)   
+7. China Physics Olympiad (Provincial), First Prize (2022) 
 8. China Chemistry Olympiad (Provincial), First Prize (2022)
 9. **China Mathematics Olympiad, Gold Medal (2022)**  
