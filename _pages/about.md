@@ -45,7 +45,7 @@ My primary interests lie in the **mathematical foundations of artificial intelli
     - Graph Neural Networks (GNN)
     - Theory of GNN Prompt Engineering
 
-- Research Assistant In CUHK (11/2024-present)
+- Research Assistant in CUHK (11/2024-present)
   - **Supervised by:** [Prof. Li lingfei](https://www.se.cuhk.edu.hk/people/academic-staff/prof-li-lingfei/)
   - **Research Topics:**
     - Score Based Diffusion Models
