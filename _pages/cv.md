@@ -49,9 +49,9 @@ Research Interests
 
 My academic interests focus on the intersection of mathematics and artificial intelligence, particularly in exploring the **mathematical foundations behind advancements in AI**.
 
-- Conducted research on the theoretical framework of prompts in Graph Neural Networks
-- Currently (12/2024) focused the transferability across different datasets and the application of diffusion models 
-- Developed a broad understanding of various topics through extensive self-study, including diffusion models, AI for solving partial differential equations, learning theory, and Transformers.  
+- Learning Theory, Transferability across different Domains, Information Theory  
+- Diffusion Models, AI for Science  
+- Stochastic Neural Differential Equations, Stochastic Processes in Deep Learning
 
 
 Publications and Working Papers
