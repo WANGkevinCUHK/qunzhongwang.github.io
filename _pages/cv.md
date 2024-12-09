@@ -21,7 +21,7 @@ Education
 * Double Major in Mathematics and Infomation Engineering, The Chinese University of Hong Kong, 2023-2027(Expected)
 
 
-Main Courses
+Main Courses and Technique skills
 =====
 
 - **Languages:** C, C++, Python, Matlab  
@@ -42,7 +42,8 @@ Work experience
 - ### The Chinese University of Hong Kong 
   - **Research Assistant - Prof. Lingfei Li**  
   - *Nove 2024 - Present*
-    - **Scored-Based Conditional Diffusion Model for Prediction**: Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints. The project is ongoing, with the goal of converting the results into a journal publication.
+    - **Scored-Based Conditional Diffusion Model for Prediction**: Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints.
+    - The project is ongoing, with the goal of converting the results into a journal publication.
 
 Research Interests
 =====
@@ -57,7 +58,7 @@ My academic interests focus on the intersection of mathematics and artificial in
 Publications and Working Papers
 =====
 
-1. **Qunzhong Wang**, Xiangguo Sun, Hong Cheng.  
+**Qunzhong Wang**, Xiangguo Sun, Hong Cheng.  
    *Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis*.  
    [arXiv:2410.01635](https://arxiv.org/abs/2410.01635).
   
