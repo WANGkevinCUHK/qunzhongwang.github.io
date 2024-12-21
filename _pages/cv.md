@@ -36,7 +36,7 @@ Work experience
 - ### The Chinese University of Hong Kong  
   - **Research Assistant - Prof. Hong Cheng**  
   - *Feb 2024 – Sep 2024*  
-    - **GNN Prompt Theory Analysis**: Analyzed the theoretical effectiveness and limits of graph prompt learning from a data operations perspective. Presented results through a poster and submitted a paper to a top conference as the first author.  
+    - **GNN Prompt Theory Analysis**: Analyzed the theoretical effectiveness and limits of graph prompt learning from a data operations perspective. Presented results through a poster and aim to submit a paper to a top conference as the first author.  
     - **Contributed to the ProG Project**: Ranked as the third top contributor. Developed a unified implementation of graph prompts across multiple GNN paradigms. The project has 500+ stars and is available on [GitHub](https://github.com/sheldonresearch/ProG).
 
 - ### The Chinese University of Hong Kong 
