@@ -50,8 +50,6 @@ Work experience
   - **Research Assistant - Prof. Jiaheng Liu**  
   - *Dec 2024 - Present*
     - **Multimodal Large Language Models**: Model DPO and High-Quality Video Generation
-<!-- - **Scored-Based Conditional Diffusion Model for Prediction**: Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints.
-    - The project is ongoing, with the goal of converting the results into a journal publication. -->
 
 Research Interests
 =====
