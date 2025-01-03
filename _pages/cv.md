@@ -39,7 +39,7 @@ Work experience
     - **GNN Prompt Theory Analysis**: Analyzed the theoretical effectiveness and limits of graph prompt learning from a data operations perspective. Presented results through a poster and aim to submit a paper to a top conference as the first author.  
     - **Contributed to the ProG Project**: Ranked as the third top contributor. Developed a unified implementation of graph prompts across multiple GNN paradigms. The project has 500+ stars and is available on [GitHub](https://github.com/sheldonresearch/ProG).
 
-- ### NANJING University 
+- ### Nanjing University 
   - **Research Assistant - Prof. Jiaheng Liu**  
   - *Dec 2024 - Present*
     - **Multimodal Large Language Models**: Model DPO and High-Quality Video Generation
