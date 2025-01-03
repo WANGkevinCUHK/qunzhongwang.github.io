@@ -39,6 +39,13 @@ Work experience
     - **GNN Prompt Theory Analysis**: Analyzed the theoretical effectiveness and limits of graph prompt learning from a data operations perspective. Presented results through a poster and aim to submit a paper to a top conference as the first author.  
     - **Contributed to the ProG Project**: Ranked as the third top contributor. Developed a unified implementation of graph prompts across multiple GNN paradigms. The project has 500+ stars and is available on [GitHub](https://github.com/sheldonresearch/ProG).
 
+- ### The Chinese University of Hong Kong  
+  - **Research Assistant - Prof. Lingfei Li**  
+  - *Oct 2024 – Dec 2024*  
+    - **Scored-Based Conditional Diffusion Model for Prediction**: Developed a scored-based diffusion model to predict the arbitrage-free **implied volatility surface** under constraints.
+    - The project is ongoing, with the goal of converting the results into a journal publication.
+
+
 - ### Nanjing University 
   - **Research Assistant - Prof. Jiaheng Liu**  
   - *Dec 2024 - Present*
