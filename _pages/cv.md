@@ -46,7 +46,7 @@ Work experience
     - The project is ongoing, with the goal of converting the results into a journal publication.
 
 
-- ### Nanjing University 
+- ### Kuaishou Kling AI lab 
   - **Research Assistant - Prof. Jiaheng Liu**  
   - *Dec 2024 - Present*
     - **Multimodal Large Language Models**: Model DPO and High-Quality Video Generation
